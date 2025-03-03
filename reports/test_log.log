@@ -1,0 +1,2346 @@
+2025-02-06 09:19:29,907 - INFO - Entered credentials
+2025-02-06 09:19:30,350 - INFO - atempting to login
+2025-02-06 09:19:37,563 - WARNING - Login failed.
+2025-02-06 09:19:44,072 - INFO - Entered credentials
+2025-02-06 09:19:44,572 - INFO - atempting to login
+2025-02-06 09:19:47,819 - WARNING - Login failed.
+2025-02-06 09:19:54,081 - INFO - Entered credentials
+2025-02-06 09:19:54,522 - INFO - atempting to login
+2025-02-06 09:19:58,106 - WARNING - Login failed.
+2025-02-06 09:20:04,419 - INFO - Entered credentials
+2025-02-06 09:20:12,526 - INFO - atempting to login
+2025-02-06 09:20:15,580 - INFO - Login successful.
+2025-02-06 09:20:32,766 - INFO - Opened the detail page of the product 1
+2025-02-06 09:20:34,768 - INFO - Adding item in cart
+2025-02-06 09:20:42,401 - INFO - Item added to cart.
+2025-02-06 09:20:42,992 - INFO - Clicked on checkout button
+2025-02-06 09:20:45,119 - INFO - Popup detected and closed
+2025-02-06 09:20:54,022 - INFO - Clicked on checkout button
+2025-02-06 09:21:07,078 - INFO - Navigating to order confirmation page
+2025-02-06 09:21:09,580 - INFO - Redirecting to payment gateway
+2025-02-06 09:21:22,585 - INFO - Redirected to payment gateway
+2025-02-06 09:21:33,818 - INFO - Entered Card holder name
+2025-02-06 09:21:34,845 - INFO - Switched to iframe
+2025-02-06 09:21:39,579 - INFO - Entered card number
+2025-02-06 09:21:41,593 - INFO - Switched back to main
+2025-02-06 09:21:42,741 - INFO - Entered card Exp date
+2025-02-06 09:21:43,826 - INFO - Entered cvv number
+2025-02-06 09:21:46,827 - INFO - Entered Payment details
+2025-02-06 09:21:47,200 - INFO - Checking if captcha required...
+2025-02-06 09:21:59,637 - INFO - Payment Successful.
+2025-02-06 09:22:11,255 - INFO - Order is placed. Order ID: 25020500001
+2025-02-06 09:26:47,736 - ERROR - Error during checkout: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=132.0.6834.160)
+Stacktrace:
+	GetHandleVerifier [0x00007FF68F7702F5+28725]
+	(No symbol) [0x00007FF68F6D2AE0]
+	(No symbol) [0x00007FF68F56510A]
+	(No symbol) [0x00007FF68F53EEA5]
+	(No symbol) [0x00007FF68F5E6F87]
+	(No symbol) [0x00007FF68F5FFA52]
+	(No symbol) [0x00007FF68F5DFD53]
+	(No symbol) [0x00007FF68F5AA0E3]
+	(No symbol) [0x00007FF68F5AB471]
+	GetHandleVerifier [0x00007FF68FA9F30D+3366989]
+	GetHandleVerifier [0x00007FF68FAB12F0+3440688]
+	GetHandleVerifier [0x00007FF68FAA78FD+3401277]
+	GetHandleVerifier [0x00007FF68F83AAAB+858091]
+	(No symbol) [0x00007FF68F6DE74F]
+	(No symbol) [0x00007FF68F6DA304]
+	(No symbol) [0x00007FF68F6DA49D]
+	(No symbol) [0x00007FF68F6C8B69]
+	BaseThreadInitThunk [0x00007FFCBDEF7374+20]
+	RtlUserThreadStart [0x00007FFCBFF1CC91+33]
+
+2025-02-07 09:23:54,702 - INFO - Opened the detail page of the product 1
+2025-02-07 09:23:56,708 - INFO - Adding item in cart
+2025-02-07 09:24:08,955 - INFO - Item added to cart.
+2025-02-07 09:24:17,179 - ERROR - Error during checkout: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=132.0.6834.160)
+Stacktrace:
+	GetHandleVerifier [0x00007FF61D4C02F5+28725]
+	(No symbol) [0x00007FF61D422AE0]
+	(No symbol) [0x00007FF61D2B510A]
+	(No symbol) [0x00007FF61D28EEA5]
+	(No symbol) [0x00007FF61D336F87]
+	(No symbol) [0x00007FF61D34FA52]
+	(No symbol) [0x00007FF61D32FD53]
+	(No symbol) [0x00007FF61D2FA0E3]
+	(No symbol) [0x00007FF61D2FB471]
+	GetHandleVerifier [0x00007FF61D7EF30D+3366989]
+	GetHandleVerifier [0x00007FF61D8012F0+3440688]
+	GetHandleVerifier [0x00007FF61D7F78FD+3401277]
+	GetHandleVerifier [0x00007FF61D58AAAB+858091]
+	(No symbol) [0x00007FF61D42E74F]
+	(No symbol) [0x00007FF61D42A304]
+	(No symbol) [0x00007FF61D42A49D]
+	(No symbol) [0x00007FF61D418B69]
+	BaseThreadInitThunk [0x00007FFCBDEF7374+20]
+	RtlUserThreadStart [0x00007FFCBFF1CC91+33]
+
+2025-02-07 09:24:17,663 - ERROR - Error during checkout: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=132.0.6834.160)
+Stacktrace:
+	GetHandleVerifier [0x00007FF61D4C02F5+28725]
+	(No symbol) [0x00007FF61D422AE0]
+	(No symbol) [0x00007FF61D2B510A]
+	(No symbol) [0x00007FF61D28EEA5]
+	(No symbol) [0x00007FF61D336F87]
+	(No symbol) [0x00007FF61D34FA52]
+	(No symbol) [0x00007FF61D32FD53]
+	(No symbol) [0x00007FF61D2FA0E3]
+	(No symbol) [0x00007FF61D2FB471]
+	GetHandleVerifier [0x00007FF61D7EF30D+3366989]
+	GetHandleVerifier [0x00007FF61D8012F0+3440688]
+	GetHandleVerifier [0x00007FF61D7F78FD+3401277]
+	GetHandleVerifier [0x00007FF61D58AAAB+858091]
+	(No symbol) [0x00007FF61D42E74F]
+	(No symbol) [0x00007FF61D42A304]
+	(No symbol) [0x00007FF61D42A49D]
+	(No symbol) [0x00007FF61D418B69]
+	BaseThreadInitThunk [0x00007FFCBDEF7374+20]
+	RtlUserThreadStart [0x00007FFCBFF1CC91+33]
+
+2025-02-07 09:28:38,155 - ERROR - Error during checkout: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=132.0.6834.160)
+Stacktrace:
+	GetHandleVerifier [0x00007FF61D4C02F5+28725]
+	(No symbol) [0x00007FF61D422AE0]
+	(No symbol) [0x00007FF61D2B510A]
+	(No symbol) [0x00007FF61D28EEA5]
+	(No symbol) [0x00007FF61D336F87]
+	(No symbol) [0x00007FF61D34FA52]
+	(No symbol) [0x00007FF61D32FD53]
+	(No symbol) [0x00007FF61D2FA0E3]
+	(No symbol) [0x00007FF61D2FB471]
+	GetHandleVerifier [0x00007FF61D7EF30D+3366989]
+	GetHandleVerifier [0x00007FF61D8012F0+3440688]
+	GetHandleVerifier [0x00007FF61D7F78FD+3401277]
+	GetHandleVerifier [0x00007FF61D58AAAB+858091]
+	(No symbol) [0x00007FF61D42E74F]
+	(No symbol) [0x00007FF61D42A304]
+	(No symbol) [0x00007FF61D42A49D]
+	(No symbol) [0x00007FF61D418B69]
+	BaseThreadInitThunk [0x00007FFCBDEF7374+20]
+	RtlUserThreadStart [0x00007FFCBFF1CC91+33]
+
+2025-02-07 09:50:21,320 - ERROR - Error during checkout: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF61D4C02F5+28725]
+	(No symbol) [0x00007FF61D422AE0]
+	(No symbol) [0x00007FF61D2B4F39]
+	(No symbol) [0x00007FF61D2F9214]
+	(No symbol) [0x00007FF61D32FE59]
+	(No symbol) [0x00007FF61D32A810]
+	(No symbol) [0x00007FF61D3298F3]
+	(No symbol) [0x00007FF61D282EC5]
+	GetHandleVerifier [0x00007FF61D7EF30D+3366989]
+	GetHandleVerifier [0x00007FF61D8012F0+3440688]
+	GetHandleVerifier [0x00007FF61D7F78FD+3401277]
+	GetHandleVerifier [0x00007FF61D58AAAB+858091]
+	(No symbol) [0x00007FF61D42E74F]
+	(No symbol) [0x00007FF61D281AD4]
+	GetHandleVerifier [0x00007FF61D85CB28+3815528]
+	BaseThreadInitThunk [0x00007FFCBDEF7374+20]
+	RtlUserThreadStart [0x00007FFCBFF1CC91+33]
+
+2025-02-07 09:50:21,774 - ERROR - Error during checkout: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF61D4C02F5+28725]
+	(No symbol) [0x00007FF61D422AE0]
+	(No symbol) [0x00007FF61D2B4F39]
+	(No symbol) [0x00007FF61D2F9214]
+	(No symbol) [0x00007FF61D32FE59]
+	(No symbol) [0x00007FF61D32A810]
+	(No symbol) [0x00007FF61D3298F3]
+	(No symbol) [0x00007FF61D282EC5]
+	GetHandleVerifier [0x00007FF61D7EF30D+3366989]
+	GetHandleVerifier [0x00007FF61D8012F0+3440688]
+	GetHandleVerifier [0x00007FF61D7F78FD+3401277]
+	GetHandleVerifier [0x00007FF61D58AAAB+858091]
+	(No symbol) [0x00007FF61D42E74F]
+	(No symbol) [0x00007FF61D281AD4]
+	GetHandleVerifier [0x00007FF61D85CB28+3815528]
+	BaseThreadInitThunk [0x00007FFCBDEF7374+20]
+	RtlUserThreadStart [0x00007FFCBFF1CC91+33]
+
+2025-02-07 09:54:35,412 - ERROR - Error during checkout: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=132.0.6834.160)
+Stacktrace:
+	GetHandleVerifier [0x00007FF61D4C02F5+28725]
+	(No symbol) [0x00007FF61D422AE0]
+	(No symbol) [0x00007FF61D2B510A]
+	(No symbol) [0x00007FF61D28EEA5]
+	(No symbol) [0x00007FF61D336F87]
+	(No symbol) [0x00007FF61D34FA52]
+	(No symbol) [0x00007FF61D32FD53]
+	(No symbol) [0x00007FF61D2FA0E3]
+	(No symbol) [0x00007FF61D2FB471]
+	GetHandleVerifier [0x00007FF61D7EF30D+3366989]
+	GetHandleVerifier [0x00007FF61D8012F0+3440688]
+	GetHandleVerifier [0x00007FF61D7F78FD+3401277]
+	GetHandleVerifier [0x00007FF61D58AAAB+858091]
+	(No symbol) [0x00007FF61D42E74F]
+	(No symbol) [0x00007FF61D42A304]
+	(No symbol) [0x00007FF61D42A49D]
+	(No symbol) [0x00007FF61D418B69]
+	BaseThreadInitThunk [0x00007FFCBDEF7374+20]
+	RtlUserThreadStart [0x00007FFCBFF1CC91+33]
+
+2025-02-07 09:54:35,885 - ERROR - Error during checkout: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=132.0.6834.160)
+Stacktrace:
+	GetHandleVerifier [0x00007FF61D4C02F5+28725]
+	(No symbol) [0x00007FF61D422AE0]
+	(No symbol) [0x00007FF61D2B510A]
+	(No symbol) [0x00007FF61D28EEA5]
+	(No symbol) [0x00007FF61D336F87]
+	(No symbol) [0x00007FF61D34FA52]
+	(No symbol) [0x00007FF61D32FD53]
+	(No symbol) [0x00007FF61D2FA0E3]
+	(No symbol) [0x00007FF61D2FB471]
+	GetHandleVerifier [0x00007FF61D7EF30D+3366989]
+	GetHandleVerifier [0x00007FF61D8012F0+3440688]
+	GetHandleVerifier [0x00007FF61D7F78FD+3401277]
+	GetHandleVerifier [0x00007FF61D58AAAB+858091]
+	(No symbol) [0x00007FF61D42E74F]
+	(No symbol) [0x00007FF61D42A304]
+	(No symbol) [0x00007FF61D42A49D]
+	(No symbol) [0x00007FF61D418B69]
+	BaseThreadInitThunk [0x00007FFCBDEF7374+20]
+	RtlUserThreadStart [0x00007FFCBFF1CC91+33]
+
+2025-02-07 10:01:23,363 - ERROR - Error during checkout: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=132.0.6834.160)
+Stacktrace:
+	GetHandleVerifier [0x00007FF61D4C02F5+28725]
+	(No symbol) [0x00007FF61D422AE0]
+	(No symbol) [0x00007FF61D2B510A]
+	(No symbol) [0x00007FF61D28EEA5]
+	(No symbol) [0x00007FF61D336F87]
+	(No symbol) [0x00007FF61D34FA52]
+	(No symbol) [0x00007FF61D32FD53]
+	(No symbol) [0x00007FF61D2FA0E3]
+	(No symbol) [0x00007FF61D2FB471]
+	GetHandleVerifier [0x00007FF61D7EF30D+3366989]
+	GetHandleVerifier [0x00007FF61D8012F0+3440688]
+	GetHandleVerifier [0x00007FF61D7F78FD+3401277]
+	GetHandleVerifier [0x00007FF61D58AAAB+858091]
+	(No symbol) [0x00007FF61D42E74F]
+	(No symbol) [0x00007FF61D42A304]
+	(No symbol) [0x00007FF61D42A49D]
+	(No symbol) [0x00007FF61D418B69]
+	BaseThreadInitThunk [0x00007FFCBDEF7374+20]
+	RtlUserThreadStart [0x00007FFCBFF1CC91+33]
+
+2025-02-07 10:05:48,686 - ERROR - Error during checkout: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=132.0.6834.160)
+Stacktrace:
+	GetHandleVerifier [0x00007FF61D4C02F5+28725]
+	(No symbol) [0x00007FF61D422AE0]
+	(No symbol) [0x00007FF61D2B510A]
+	(No symbol) [0x00007FF61D28EEA5]
+	(No symbol) [0x00007FF61D336F87]
+	(No symbol) [0x00007FF61D34FA52]
+	(No symbol) [0x00007FF61D32FD53]
+	(No symbol) [0x00007FF61D2FA0E3]
+	(No symbol) [0x00007FF61D2FB471]
+	GetHandleVerifier [0x00007FF61D7EF30D+3366989]
+	GetHandleVerifier [0x00007FF61D8012F0+3440688]
+	GetHandleVerifier [0x00007FF61D7F78FD+3401277]
+	GetHandleVerifier [0x00007FF61D58AAAB+858091]
+	(No symbol) [0x00007FF61D42E74F]
+	(No symbol) [0x00007FF61D42A304]
+	(No symbol) [0x00007FF61D42A49D]
+	(No symbol) [0x00007FF61D418B69]
+	BaseThreadInitThunk [0x00007FFCBDEF7374+20]
+	RtlUserThreadStart [0x00007FFCBFF1CC91+33]
+
+2025-02-07 10:09:10,596 - ERROR - Error during checkout: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=132.0.6834.160)
+Stacktrace:
+	GetHandleVerifier [0x00007FF61D4C02F5+28725]
+	(No symbol) [0x00007FF61D422AE0]
+	(No symbol) [0x00007FF61D2B510A]
+	(No symbol) [0x00007FF61D28EEA5]
+	(No symbol) [0x00007FF61D336F87]
+	(No symbol) [0x00007FF61D34FA52]
+	(No symbol) [0x00007FF61D32FD53]
+	(No symbol) [0x00007FF61D2FA0E3]
+	(No symbol) [0x00007FF61D2FB471]
+	GetHandleVerifier [0x00007FF61D7EF30D+3366989]
+	GetHandleVerifier [0x00007FF61D8012F0+3440688]
+	GetHandleVerifier [0x00007FF61D7F78FD+3401277]
+	GetHandleVerifier [0x00007FF61D58AAAB+858091]
+	(No symbol) [0x00007FF61D42E74F]
+	(No symbol) [0x00007FF61D42A304]
+	(No symbol) [0x00007FF61D42A49D]
+	(No symbol) [0x00007FF61D418B69]
+	BaseThreadInitThunk [0x00007FFCBDEF7374+20]
+	RtlUserThreadStart [0x00007FFCBFF1CC91+33]
+
+2025-02-10 08:44:13,749 - INFO - Entered credentials
+2025-02-10 08:44:14,252 - INFO - atempting to login
+2025-02-10 08:44:20,273 - WARNING - Login failed.
+2025-02-10 08:44:28,332 - INFO - Entered credentials
+2025-02-10 08:44:28,814 - INFO - atempting to login
+2025-02-10 08:44:34,404 - WARNING - Login failed.
+2025-02-10 08:44:44,647 - INFO - Entered credentials
+2025-02-10 08:44:50,305 - INFO - atempting to login
+2025-02-10 08:44:53,313 - WARNING - Login failed.
+2025-02-10 08:44:59,282 - INFO - Entered credentials
+2025-02-10 08:45:06,592 - INFO - atempting to login
+2025-02-10 08:45:09,608 - INFO - Login successful.
+2025-02-10 08:45:23,539 - INFO - Opened the detail page of the product 1
+2025-02-10 08:45:25,540 - INFO - Adding item in cart
+2025-02-10 08:45:32,998 - INFO - Item added to cart.
+2025-02-10 08:45:52,030 - INFO - Opened the detail page of the product 2
+2025-02-10 08:45:54,031 - INFO - Selecting variations
+2025-02-10 08:45:54,221 - INFO - Adding item in cart
+2025-02-10 08:46:01,479 - INFO - Item added to cart.
+2025-02-10 08:46:02,063 - INFO - Clicked on checkout button
+2025-02-10 08:46:04,151 - INFO - Popup detected and closed
+2025-02-10 08:46:13,440 - INFO - Clicked on checkout button
+2025-02-10 08:46:26,055 - INFO - Navigating to order confirmation page
+2025-02-10 08:46:28,450 - INFO - Redirecting to payment gateway
+2025-02-10 08:46:42,290 - INFO - Redirected to payment gateway
+2025-02-10 08:46:52,188 - INFO - Entered Card holder name
+2025-02-10 08:46:53,215 - INFO - Switched to iframe
+2025-02-10 08:46:57,805 - INFO - Entered card number
+2025-02-10 08:46:59,809 - INFO - Switched back to main
+2025-02-10 08:47:00,926 - INFO - Entered card Exp date
+2025-02-10 08:47:02,001 - INFO - Entered cvv number
+2025-02-10 08:47:05,002 - INFO - Entered Payment details
+2025-02-10 08:47:05,609 - INFO - Checking if captcha required...
+2025-02-10 08:47:15,908 - INFO - Captcha button found.
+2025-02-10 08:47:17,970 - INFO - Clicking Captcha button.
+2025-02-10 08:47:19,300 - INFO - Checking if captcha required...
+2025-02-10 08:47:29,591 - INFO - Captcha button found.
+2025-02-10 08:47:31,646 - INFO - Clicking Captcha button.
+2025-02-10 08:47:32,975 - INFO - Checking if captcha required...
+2025-02-10 08:57:45,595 - INFO - Entered credentials
+2025-02-10 08:57:46,004 - INFO - atempting to login
+2025-02-10 08:57:49,314 - WARNING - Login failed.
+2025-02-10 08:57:54,644 - INFO - Entered credentials
+2025-02-10 08:57:55,099 - INFO - atempting to login
+2025-02-10 08:57:58,114 - WARNING - Login failed.
+2025-02-10 08:58:04,265 - INFO - Entered credentials
+2025-02-10 08:58:08,483 - INFO - atempting to login
+2025-02-10 08:58:11,509 - WARNING - Login failed.
+2025-02-10 08:58:17,344 - INFO - Entered credentials
+2025-02-10 08:58:23,387 - INFO - atempting to login
+2025-02-10 08:58:26,410 - INFO - Login successful.
+2025-02-10 08:58:42,469 - INFO - Opened the detail page of the product 1
+2025-02-10 08:58:44,471 - INFO - Adding item in cart
+2025-02-10 08:58:53,135 - INFO - Item added to cart.
+2025-02-10 08:59:09,542 - ERROR - Error during checkout: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="checkoutbtn"]"}
+  (Session info: chrome=133.0.6943.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF600D02EC5+28789]
+	(No symbol) [0x00007FF600C6F870]
+	(No symbol) [0x00007FF600B08F9A]
+	(No symbol) [0x00007FF600B5F236]
+	(No symbol) [0x00007FF600B5F46C]
+	(No symbol) [0x00007FF600BB29F7]
+	(No symbol) [0x00007FF600B8725F]
+	(No symbol) [0x00007FF600BAF6C3]
+	(No symbol) [0x00007FF600B86FF3]
+	(No symbol) [0x00007FF600B4FF0E]
+	(No symbol) [0x00007FF600B51193]
+	GetHandleVerifier [0x00007FF60104D5FD+3479469]
+	GetHandleVerifier [0x00007FF6010671A3+3584851]
+	GetHandleVerifier [0x00007FF60105C44D+3540477]
+	GetHandleVerifier [0x00007FF600DC8B6A+838938]
+	(No symbol) [0x00007FF600C7A4EF]
+	(No symbol) [0x00007FF600C76954]
+	(No symbol) [0x00007FF600C76AF6]
+	(No symbol) [0x00007FF600C66499]
+	BaseThreadInitThunk [0x00007FFCBDEF7374+20]
+	RtlUserThreadStart [0x00007FFCBFF1CC91+33]
+
+2025-02-10 09:00:51,017 - INFO - Entered credentials
+2025-02-10 09:00:51,445 - INFO - atempting to login
+2025-02-10 09:00:54,608 - WARNING - Login failed.
+2025-02-10 09:01:00,260 - INFO - Entered credentials
+2025-02-10 09:01:00,755 - INFO - atempting to login
+2025-02-10 09:01:04,008 - WARNING - Login failed.
+2025-02-10 09:01:09,901 - INFO - Entered credentials
+2025-02-10 09:01:13,535 - INFO - atempting to login
+2025-02-10 09:01:16,547 - WARNING - Login failed.
+2025-02-10 09:01:22,024 - INFO - Entered credentials
+2025-02-10 09:01:29,322 - INFO - atempting to login
+2025-02-10 09:01:32,345 - INFO - Login successful.
+2025-02-10 09:01:46,436 - INFO - Opened the detail page of the product 1
+2025-02-10 09:01:48,437 - INFO - Adding item in cart
+2025-02-10 09:01:56,296 - INFO - Item added to cart.
+2025-02-10 09:01:56,917 - INFO - Clicked on checkout button
+2025-02-10 09:01:59,002 - INFO - Popup detected and closed
+2025-02-10 09:02:10,078 - INFO - Clicked on checkout button
+2025-02-10 09:02:21,495 - INFO - Navigating to order confirmation page
+2025-02-10 09:02:23,897 - INFO - Redirecting to payment gateway
+2025-02-10 09:02:36,416 - INFO - Redirected to payment gateway
+2025-02-10 09:02:41,259 - INFO - Entered Card holder name
+2025-02-10 09:02:42,290 - INFO - Switched to iframe
+2025-02-10 09:19:06,511 - INFO - Entered credentials
+2025-02-10 09:19:07,120 - INFO - atempting to login
+2025-02-10 09:19:19,002 - WARNING - Login failed.
+2025-02-10 09:19:30,506 - INFO - Entered credentials
+2025-02-10 09:19:31,001 - INFO - atempting to login
+2025-02-10 09:19:38,264 - WARNING - Login failed.
+2025-02-10 09:19:49,147 - INFO - Entered credentials
+2025-02-10 09:19:49,565 - INFO - atempting to login
+2025-02-10 09:19:58,476 - WARNING - Login failed.
+2025-02-10 09:20:07,398 - INFO - Entered credentials
+2025-02-10 09:20:13,655 - INFO - atempting to login
+2025-02-10 09:20:16,675 - INFO - Login successful.
+2025-02-10 09:20:35,568 - INFO - Opened the detail page of the product 1
+2025-02-10 09:20:37,569 - INFO - Adding item in cart
+2025-02-10 09:20:46,495 - INFO - Item added to cart.
+2025-02-10 09:20:47,156 - INFO - Clicked on checkout button
+2025-02-10 09:20:49,265 - INFO - Popup detected and closed
+2025-02-10 09:20:57,537 - INFO - Clicked on checkout button
+2025-02-10 09:21:09,970 - INFO - Navigating to order confirmation page
+2025-02-10 09:21:12,421 - INFO - Redirecting to payment gateway
+2025-02-10 09:21:24,579 - INFO - Redirected to payment gateway
+2025-02-10 09:21:30,428 - INFO - Entered Card holder name
+2025-02-10 09:21:31,474 - INFO - Switched to iframe
+2025-02-10 09:31:40,850 - INFO - Entered credentials
+2025-02-10 09:31:41,337 - INFO - atempting to login
+2025-02-10 09:31:47,450 - WARNING - Login failed.
+2025-02-10 09:31:55,536 - INFO - Entered credentials
+2025-02-10 09:31:56,028 - INFO - atempting to login
+2025-02-10 09:32:05,605 - WARNING - Login failed.
+2025-02-10 09:32:14,141 - INFO - Entered credentials
+2025-02-10 09:32:14,554 - INFO - atempting to login
+2025-02-10 09:32:20,315 - WARNING - Login failed.
+2025-02-10 09:32:28,919 - INFO - Entered credentials
+2025-02-10 09:32:40,797 - INFO - atempting to login
+2025-02-10 09:32:43,854 - INFO - Login successful.
+2025-02-10 09:33:06,824 - INFO - Opened the detail page of the product 1
+2025-02-10 09:33:08,825 - INFO - Adding item in cart
+2025-02-10 09:33:27,405 - INFO - Item added to cart.
+2025-02-10 09:33:28,190 - INFO - Clicked on checkout button
+2025-02-10 09:35:52,762 - INFO - Entered credentials
+2025-02-10 09:35:57,127 - INFO - atempting to login
+2025-02-10 09:36:00,143 - WARNING - Login failed.
+2025-02-10 09:36:06,665 - INFO - Entered credentials
+2025-02-10 09:36:10,817 - INFO - atempting to login
+2025-02-10 09:36:13,829 - WARNING - Login failed.
+2025-02-10 09:36:19,979 - INFO - Entered credentials
+2025-02-10 09:36:20,375 - INFO - atempting to login
+2025-02-10 09:36:23,890 - WARNING - Login failed.
+2025-02-10 09:36:29,413 - INFO - Entered credentials
+2025-02-10 09:36:36,259 - INFO - atempting to login
+2025-02-10 09:36:39,282 - INFO - Login successful.
+2025-02-10 09:36:53,913 - INFO - Opened the detail page of the product 1
+2025-02-10 09:36:55,914 - INFO - Adding item in cart
+2025-02-10 09:37:05,873 - INFO - Item added to cart.
+2025-02-10 09:37:06,519 - INFO - Clicked on checkout button
+2025-02-10 09:37:08,633 - INFO - Popup detected and closed
+2025-02-10 09:37:17,306 - INFO - Clicked on checkout button
+2025-02-10 09:37:29,297 - INFO - Navigating to order confirmation page
+2025-02-10 09:37:31,710 - INFO - Redirecting to payment gateway
+2025-02-10 09:37:44,353 - INFO - Redirected to payment gateway
+2025-02-10 09:37:49,797 - INFO - Entered Card holder name
+2025-02-10 09:37:50,821 - INFO - Switched to iframe
+2025-02-14 09:30:10,446 - INFO - Entered credentials
+2025-02-14 09:30:10,869 - INFO - atempting to login
+2025-02-14 09:30:14,204 - WARNING - Login failed.
+2025-02-14 09:30:20,431 - INFO - Entered credentials
+2025-02-14 09:30:20,880 - INFO - atempting to login
+2025-02-14 09:30:24,059 - WARNING - Login failed.
+2025-02-14 09:30:30,120 - INFO - Entered credentials
+2025-02-14 09:30:30,513 - INFO - atempting to login
+2025-02-14 09:30:33,771 - WARNING - Login failed.
+2025-02-14 09:30:39,642 - INFO - Entered credentials
+2025-02-14 09:30:47,279 - INFO - atempting to login
+2025-02-14 09:30:50,317 - INFO - Login successful.
+2025-02-26 14:18:28,443 - INFO - Entered credentials
+2025-02-26 14:18:29,042 - INFO - atempting to login
+2025-02-26 14:18:29,245 - INFO - Entered credentials
+2025-02-26 14:18:32,567 - WARNING - Login failed.
+2025-02-26 14:18:33,200 - INFO - atempting to login
+2025-02-26 14:18:36,214 - WARNING - Login failed.
+2025-02-26 14:18:42,780 - INFO - Entered credentials
+2025-02-26 14:18:46,738 - INFO - Entered credentials
+2025-02-26 14:18:49,313 - INFO - atempting to login
+2025-02-26 14:18:50,471 - INFO - atempting to login
+2025-02-26 14:18:52,380 - INFO - Login successful.
+2025-02-26 14:18:53,507 - WARNING - Login failed.
+2025-02-26 14:19:50,557 - INFO - Opened the detail page of the product 1
+2025-02-26 14:19:52,559 - INFO - Adding item in cart
+2025-02-26 14:19:52,564 - ERROR - Failed to add item to cart: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=133.0.6943.128)
+Stacktrace:
+	GetHandleVerifier [0x00007FF68C59C6A5+28789]
+	(No symbol) [0x00007FF68C505B20]
+	(No symbol) [0x00007FF68C398F9A]
+	(No symbol) [0x00007FF68C384D75]
+	(No symbol) [0x00007FF68C3A9784]
+	(No symbol) [0x00007FF68C41F0BF]
+	(No symbol) [0x00007FF68C43F0D2]
+	(No symbol) [0x00007FF68C417103]
+	(No symbol) [0x00007FF68C3DFFC0]
+	(No symbol) [0x00007FF68C3E1273]
+	GetHandleVerifier [0x00007FF68C8E1AED+3458237]
+	GetHandleVerifier [0x00007FF68C8F829C+3550316]
+	GetHandleVerifier [0x00007FF68C8EDB9D+3507565]
+	GetHandleVerifier [0x00007FF68C662C6A+841274]
+	(No symbol) [0x00007FF68C5109EF]
+	(No symbol) [0x00007FF68C50CB34]
+	(No symbol) [0x00007FF68C50CCD6]
+	(No symbol) [0x00007FF68C4FC119]
+	BaseThreadInitThunk [0x00007FFE743D259D+29]
+	RtlUserThreadStart [0x00007FFE7638AF38+40]
+
+2025-02-26 14:28:45,039 - INFO - Entered credentials
+2025-02-26 14:28:45,180 - INFO - Entered credentials
+2025-02-26 14:28:49,003 - INFO - atempting to login
+2025-02-26 14:28:49,265 - INFO - atempting to login
+2025-02-26 14:28:52,029 - WARNING - Login failed.
+2025-02-26 14:28:52,279 - WARNING - Login failed.
+2025-02-26 14:29:02,650 - INFO - Entered credentials
+2025-02-26 14:29:03,064 - INFO - Entered credentials
+2025-02-26 14:29:03,116 - INFO - atempting to login
+2025-02-26 14:29:06,280 - WARNING - Login failed.
+2025-02-26 14:29:09,600 - INFO - atempting to login
+2025-02-26 14:29:12,656 - INFO - Login successful.
+2025-02-26 14:29:20,582 - ERROR - Error during checkout: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="checkoutbtn"]"}
+  (Session info: chrome=133.0.6943.128); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF68C59C6A5+28789]
+	(No symbol) [0x00007FF68C505B20]
+	(No symbol) [0x00007FF68C398F9A]
+	(No symbol) [0x00007FF68C3EF346]
+	(No symbol) [0x00007FF68C3EF57C]
+	(No symbol) [0x00007FF68C442B17]
+	(No symbol) [0x00007FF68C41736F]
+	(No symbol) [0x00007FF68C43F7E3]
+	(No symbol) [0x00007FF68C417103]
+	(No symbol) [0x00007FF68C3DFFC0]
+	(No symbol) [0x00007FF68C3E1273]
+	GetHandleVerifier [0x00007FF68C8E1AED+3458237]
+	GetHandleVerifier [0x00007FF68C8F829C+3550316]
+	GetHandleVerifier [0x00007FF68C8EDB9D+3507565]
+	GetHandleVerifier [0x00007FF68C662C6A+841274]
+	(No symbol) [0x00007FF68C5109EF]
+	(No symbol) [0x00007FF68C50CB34]
+	(No symbol) [0x00007FF68C50CCD6]
+	(No symbol) [0x00007FF68C4FC119]
+	BaseThreadInitThunk [0x00007FFE743D259D+29]
+	RtlUserThreadStart [0x00007FFE7638AF38+40]
+
+2025-02-26 14:29:33,495 - INFO - Opened the detail page of the product 1
+2025-02-26 14:29:35,496 - INFO - Adding item in cart
+2025-02-26 14:29:37,985 - ERROR - Failed to add item to cart: Message: element click intercepted: Element <a href="javascript:void(0);" class="btn btn-primary" id="js-item-addtocartbtn-165084" disabled="false">...</a> is not clickable at point (840, 561). Other element would receive the click: <a href="https://www.halo.com/privacy-policy.aspx" target="_blank" class="learnmore" onclick="" title="...">Privacy Policy</a>
+  (Session info: chrome=133.0.6943.128)
+Stacktrace:
+	GetHandleVerifier [0x00007FF68C59C6A5+28789]
+	(No symbol) [0x00007FF68C505B20]
+	(No symbol) [0x00007FF68C398F9A]
+	(No symbol) [0x00007FF68C3F71E9]
+	(No symbol) [0x00007FF68C3F4BA2]
+	(No symbol) [0x00007FF68C3F1C51]
+	(No symbol) [0x00007FF68C3F0B51]
+	(No symbol) [0x00007FF68C3E2314]
+	(No symbol) [0x00007FF68C41732A]
+	(No symbol) [0x00007FF68C3E1BC6]
+	(No symbol) [0x00007FF68C417540]
+	(No symbol) [0x00007FF68C43F7E3]
+	(No symbol) [0x00007FF68C417103]
+	(No symbol) [0x00007FF68C3DFFC0]
+	(No symbol) [0x00007FF68C3E1273]
+	GetHandleVerifier [0x00007FF68C8E1AED+3458237]
+	GetHandleVerifier [0x00007FF68C8F829C+3550316]
+	GetHandleVerifier [0x00007FF68C8EDB9D+3507565]
+	GetHandleVerifier [0x00007FF68C662C6A+841274]
+	(No symbol) [0x00007FF68C5109EF]
+	(No symbol) [0x00007FF68C50CB34]
+	(No symbol) [0x00007FF68C50CCD6]
+	(No symbol) [0x00007FF68C4FC119]
+	BaseThreadInitThunk [0x00007FFE743D259D+29]
+	RtlUserThreadStart [0x00007FFE7638AF38+40]
+
+2025-02-26 14:32:04,379 - INFO - Entered credentials
+2025-02-26 14:32:04,395 - INFO - Entered credentials
+2025-02-26 14:32:08,582 - INFO - atempting to login
+2025-02-26 14:32:08,582 - INFO - atempting to login
+2025-02-26 14:32:11,599 - WARNING - Login failed.
+2025-02-26 14:32:11,599 - WARNING - Login failed.
+2025-02-26 14:32:17,799 - INFO - Entered credentials
+2025-02-26 14:32:17,818 - INFO - Entered credentials
+2025-02-26 14:32:18,274 - INFO - atempting to login
+2025-02-26 14:32:21,702 - WARNING - Login failed.
+2025-02-26 14:32:24,400 - INFO - atempting to login
+2025-02-26 14:32:27,462 - INFO - Login successful.
+2025-02-26 14:32:37,142 - INFO - Opened the detail page of the product 1
+2025-02-26 14:32:39,143 - INFO - Adding item in cart
+2025-02-26 14:32:46,802 - ERROR - Failed to add item to cart: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=133.0.6943.128)
+Stacktrace:
+	GetHandleVerifier [0x00007FF68C59C6A5+28789]
+	(No symbol) [0x00007FF68C505B20]
+	(No symbol) [0x00007FF68C398F9A]
+	(No symbol) [0x00007FF68C371563]
+	(No symbol) [0x00007FF68C41EF1E]
+	(No symbol) [0x00007FF68C43F0D2]
+	(No symbol) [0x00007FF68C417103]
+	(No symbol) [0x00007FF68C3DFFC0]
+	(No symbol) [0x00007FF68C3E1273]
+	GetHandleVerifier [0x00007FF68C8E1AED+3458237]
+	GetHandleVerifier [0x00007FF68C8F829C+3550316]
+	GetHandleVerifier [0x00007FF68C8EDB9D+3507565]
+	GetHandleVerifier [0x00007FF68C662C6A+841274]
+	(No symbol) [0x00007FF68C5109EF]
+	(No symbol) [0x00007FF68C50CB34]
+	(No symbol) [0x00007FF68C50CCD6]
+	(No symbol) [0x00007FF68C4FC119]
+	BaseThreadInitThunk [0x00007FFE743D259D+29]
+	RtlUserThreadStart [0x00007FFE7638AF38+40]
+
+2025-02-26 14:32:47,402 - ERROR - Error during checkout: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=133.0.6943.128)
+Stacktrace:
+	GetHandleVerifier [0x00007FF68C59C6A5+28789]
+	(No symbol) [0x00007FF68C505B20]
+	(No symbol) [0x00007FF68C398F9A]
+	(No symbol) [0x00007FF68C371563]
+	(No symbol) [0x00007FF68C41EF1E]
+	(No symbol) [0x00007FF68C43F0D2]
+	(No symbol) [0x00007FF68C417103]
+	(No symbol) [0x00007FF68C3DFFC0]
+	(No symbol) [0x00007FF68C3E1273]
+	GetHandleVerifier [0x00007FF68C8E1AED+3458237]
+	GetHandleVerifier [0x00007FF68C8F829C+3550316]
+	GetHandleVerifier [0x00007FF68C8EDB9D+3507565]
+	GetHandleVerifier [0x00007FF68C662C6A+841274]
+	(No symbol) [0x00007FF68C5109EF]
+	(No symbol) [0x00007FF68C50CB34]
+	(No symbol) [0x00007FF68C50CCD6]
+	(No symbol) [0x00007FF68C4FC119]
+	BaseThreadInitThunk [0x00007FFE743D259D+29]
+	RtlUserThreadStart [0x00007FFE7638AF38+40]
+
+2025-02-26 14:35:00,699 - INFO - Entered credentials
+2025-02-26 14:35:00,908 - INFO - Entered credentials
+2025-02-26 14:35:01,335 - INFO - atempting to login
+2025-02-26 14:35:01,438 - INFO - atempting to login
+2025-02-26 14:35:04,692 - WARNING - Login failed.
+2025-02-26 14:35:04,778 - WARNING - Login failed.
+2025-02-26 14:35:10,809 - INFO - Entered credentials
+2025-02-26 14:35:10,831 - INFO - Entered credentials
+2025-02-26 14:35:15,090 - INFO - atempting to login
+2025-02-26 14:35:18,124 - WARNING - Login failed.
+2025-02-26 14:35:18,220 - INFO - atempting to login
+2025-02-26 14:35:21,299 - INFO - Login successful.
+2025-02-26 14:35:30,454 - INFO - Opened the detail page of the product 1
+2025-02-26 14:49:19,705 - INFO - Entered credentials
+2025-02-26 14:49:19,821 - INFO - Entered credentials
+2025-02-26 14:49:20,350 - INFO - atempting to login
+2025-02-26 14:49:23,782 - WARNING - Login failed.
+2025-02-26 14:49:23,824 - INFO - atempting to login
+2025-02-26 14:49:26,875 - WARNING - Login failed.
+2025-02-26 14:49:29,630 - INFO - Entered credentials
+2025-02-26 14:49:30,165 - INFO - atempting to login
+2025-02-26 14:49:32,780 - INFO - Entered credentials
+2025-02-26 14:49:33,522 - WARNING - Login failed.
+2025-02-26 14:49:39,169 - INFO - atempting to login
+2025-02-26 14:49:42,226 - INFO - Login successful.
+2025-02-26 14:49:49,169 - INFO - Opened the detail page of the product 1
+2025-02-26 14:49:51,172 - INFO - Adding item in cart
+2025-02-26 14:49:51,468 - ERROR - Failed to add item to cart: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=133.0.6943.128)
+Stacktrace:
+	GetHandleVerifier [0x00007FF68C59C6A5+28789]
+	(No symbol) [0x00007FF68C505B20]
+	(No symbol) [0x00007FF68C398F9A]
+	(No symbol) [0x00007FF68C384D75]
+	(No symbol) [0x00007FF68C3A9784]
+	(No symbol) [0x00007FF68C41F0BF]
+	(No symbol) [0x00007FF68C43F0D2]
+	(No symbol) [0x00007FF68C417103]
+	(No symbol) [0x00007FF68C3DFFC0]
+	(No symbol) [0x00007FF68C3E1273]
+	GetHandleVerifier [0x00007FF68C8E1AED+3458237]
+	GetHandleVerifier [0x00007FF68C8F829C+3550316]
+	GetHandleVerifier [0x00007FF68C8EDB9D+3507565]
+	GetHandleVerifier [0x00007FF68C662C6A+841274]
+	(No symbol) [0x00007FF68C5109EF]
+	(No symbol) [0x00007FF68C50CB34]
+	(No symbol) [0x00007FF68C50CCD6]
+	(No symbol) [0x00007FF68C4FC119]
+	BaseThreadInitThunk [0x00007FFE743D259D+29]
+	RtlUserThreadStart [0x00007FFE7638AF38+40]
+
+2025-02-26 14:49:51,861 - ERROR - Error during checkout: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF68C59C6A5+28789]
+	(No symbol) [0x00007FF68C505B20]
+	(No symbol) [0x00007FF68C398DCC]
+	(No symbol) [0x00007FF68C3DF1CF]
+	(No symbol) [0x00007FF68C4171F2]
+	(No symbol) [0x00007FF68C411B89]
+	(No symbol) [0x00007FF68C410C39]
+	(No symbol) [0x00007FF68C365595]
+	GetHandleVerifier [0x00007FF68C8E1AED+3458237]
+	GetHandleVerifier [0x00007FF68C8F829C+3550316]
+	GetHandleVerifier [0x00007FF68C8EDB9D+3507565]
+	GetHandleVerifier [0x00007FF68C662C6A+841274]
+	(No symbol) [0x00007FF68C5109EF]
+	(No symbol) [0x00007FF68C3641AE]
+	GetHandleVerifier [0x00007FF68C9666A8+4001912]
+	BaseThreadInitThunk [0x00007FFE743D259D+29]
+	RtlUserThreadStart [0x00007FFE7638AF38+40]
+
+2025-02-26 14:50:02,348 - INFO - Entered credentials
+2025-02-26 14:50:05,308 - INFO - Entered credentials
+2025-02-26 14:50:06,386 - INFO - atempting to login
+2025-02-26 14:50:09,435 - WARNING - Login failed.
+2025-02-26 14:50:09,693 - INFO - atempting to login
+2025-02-26 14:50:12,740 - WARNING - Login failed.
+2025-02-26 14:50:15,662 - INFO - Entered credentials
+2025-02-26 14:50:16,248 - INFO - atempting to login
+2025-02-26 14:50:18,661 - INFO - Entered credentials
+2025-02-26 14:50:19,514 - WARNING - Login failed.
+2025-02-26 14:50:24,619 - INFO - atempting to login
+2025-02-26 14:50:27,677 - INFO - Login successful.
+2025-02-26 14:50:27,707 - ERROR - Error during checkout: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="checkoutbtn"]"}
+  (Session info: MicrosoftEdge=133.0.3065.82); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF762F3E735+13397]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7631CB1B4+2060276]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF763122338+1368440]
+	(No symbol) [0x00007FF762D132A9]
+	(No symbol) [0x00007FF762D1349B]
+	(No symbol) [0x00007FF762D540E7]
+	(No symbol) [0x00007FF762D3429F]
+	(No symbol) [0x00007FF762D0964D]
+	(No symbol) [0x00007FF762D51C00]
+	(No symbol) [0x00007FF762D33FC3]
+	(No symbol) [0x00007FF762D08B96]
+	(No symbol) [0x00007FF762D07E50]
+	(No symbol) [0x00007FF762D089C3]
+	(No symbol) [0x00007FF762D90214]
+	(No symbol) [0x00007FF762E206CF]
+	(No symbol) [0x00007FF762D93A53]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7632845BD+279981]
+	simdutf::get_active_implementation [0x00007FF762EC78C1+409457]
+	simdutf::get_active_implementation [0x00007FF762EC2BA4+389716]
+	simdutf::get_active_implementation [0x00007FF762EC2CE9+390041]
+	simdutf::get_active_implementation [0x00007FF762EB62E6+338326]
+	BaseThreadInitThunk [0x00007FFE743D259D+29]
+	RtlUserThreadStart [0x00007FFE7638AF38+40]
+
+2025-02-26 14:50:35,012 - INFO - Opened the detail page of the product 1
+2025-02-26 14:50:37,013 - INFO - Adding item in cart
+2025-02-26 14:50:45,492 - INFO - Item added to cart.
+2025-02-26 15:03:05,084 - INFO - Entered credentials
+2025-02-26 15:03:05,536 - INFO - atempting to login
+2025-02-26 15:03:08,773 - WARNING - Login failed.
+2025-02-26 15:03:14,683 - INFO - Entered credentials
+2025-02-26 15:03:15,156 - INFO - atempting to login
+2025-02-26 15:03:18,582 - WARNING - Login failed.
+2025-02-26 15:03:24,579 - INFO - Entered credentials
+2025-02-26 15:03:24,982 - INFO - atempting to login
+2025-02-26 15:03:28,650 - WARNING - Login failed.
+2025-02-26 15:03:34,545 - INFO - Entered credentials
+2025-02-26 15:03:41,678 - INFO - atempting to login
+2025-02-26 15:03:44,714 - INFO - Login successful.
+2025-02-26 15:04:00,727 - INFO - Opened the detail page of the product 1
+2025-02-26 15:04:02,728 - INFO - Adding item in cart
+2025-02-26 15:04:11,234 - INFO - Item added to cart.
+2025-02-26 15:04:12,859 - ERROR - Error during checkout: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-02-26 15:04:52,593 - INFO - Entered credentials
+2025-02-26 15:04:53,067 - INFO - atempting to login
+2025-02-26 15:04:56,631 - WARNING - Login failed.
+2025-02-26 15:05:02,823 - INFO - Entered credentials
+2025-02-26 15:05:03,346 - INFO - atempting to login
+2025-02-26 15:05:06,943 - WARNING - Login failed.
+2025-02-26 15:05:13,107 - INFO - Entered credentials
+2025-02-26 15:05:13,603 - INFO - atempting to login
+2025-02-26 15:05:17,026 - WARNING - Login failed.
+2025-02-26 15:05:23,138 - INFO - Entered credentials
+2025-02-26 15:05:30,882 - INFO - atempting to login
+2025-02-26 15:05:33,938 - INFO - Login successful.
+2025-02-26 15:07:17,395 - INFO - Entered credentials
+2025-02-26 15:07:17,855 - INFO - atempting to login
+2025-02-26 15:07:21,234 - WARNING - Login failed.
+2025-02-26 15:07:27,082 - INFO - Entered credentials
+2025-02-26 15:07:31,079 - INFO - atempting to login
+2025-02-26 15:07:34,101 - WARNING - Login failed.
+2025-02-26 15:07:40,410 - INFO - Entered credentials
+2025-02-26 15:07:40,824 - INFO - atempting to login
+2025-02-26 15:07:44,101 - WARNING - Login failed.
+2025-02-26 15:07:50,117 - INFO - Entered credentials
+2025-02-26 15:07:56,866 - INFO - atempting to login
+2025-02-26 15:07:59,902 - INFO - Login successful.
+2025-02-26 15:08:16,840 - INFO - Opened the detail page of the product 1
+2025-02-26 15:08:18,842 - INFO - Adding item in cart
+2025-02-26 15:08:26,721 - INFO - Item added to cart.
+2025-02-26 15:08:27,356 - INFO - Clicked on checkout button
+2025-02-26 15:08:29,575 - INFO - Popup detected and closed
+2025-02-26 15:08:37,405 - INFO - Clicked on checkout button
+2025-02-26 15:08:40,872 - INFO - Navigating to order confirmation page
+2025-02-26 15:09:00,228 - INFO - Entered credentials
+2025-02-26 15:09:00,715 - INFO - atempting to login
+2025-02-26 15:09:04,013 - WARNING - Login failed.
+2025-02-26 15:09:09,912 - INFO - Entered credentials
+2025-02-26 15:09:14,441 - INFO - atempting to login
+2025-02-26 15:09:17,472 - WARNING - Login failed.
+2025-02-26 15:09:23,863 - INFO - Entered credentials
+2025-02-26 15:09:24,392 - INFO - atempting to login
+2025-02-26 15:09:27,831 - WARNING - Login failed.
+2025-02-26 15:09:33,784 - INFO - Entered credentials
+2025-02-26 15:09:40,743 - INFO - atempting to login
+2025-02-26 15:09:43,796 - INFO - Login successful.
+2025-02-26 15:10:00,072 - INFO - Opened the detail page of the product 1
+2025-02-26 15:10:02,074 - INFO - Adding item in cart
+2025-02-26 15:10:09,652 - INFO - Item added to cart.
+2025-02-26 15:10:10,255 - INFO - Clicked on checkout button
+2025-02-26 15:10:12,474 - INFO - Popup detected and closed
+2025-02-26 15:10:21,150 - INFO - Clicked on checkout button
+2025-02-26 15:10:24,686 - INFO - Navigating to order confirmation page
+2025-02-26 15:13:51,072 - INFO - Entered credentials
+2025-02-26 15:13:51,231 - INFO - Entered credentials
+2025-02-26 15:13:51,525 - INFO - atempting to login
+2025-02-26 15:13:51,691 - INFO - atempting to login
+2025-02-26 15:13:55,075 - WARNING - Login failed.
+2025-02-26 15:13:55,082 - WARNING - Login failed.
+2025-02-26 15:14:00,888 - INFO - Entered credentials
+2025-02-26 15:14:00,895 - INFO - Entered credentials
+2025-02-26 15:14:05,789 - INFO - atempting to login
+2025-02-26 15:14:08,827 - WARNING - Login failed.
+2025-02-26 15:14:10,885 - INFO - atempting to login
+2025-02-26 15:14:13,946 - INFO - Login successful.
+2025-02-26 15:14:26,980 - INFO - Entered credentials
+2025-02-26 15:14:27,465 - INFO - atempting to login
+2025-02-26 15:14:30,835 - WARNING - Login failed.
+2025-02-26 15:14:30,876 - INFO - Opened the detail page of the product 1
+2025-02-26 15:14:32,878 - INFO - Adding item in cart
+2025-02-26 15:14:37,481 - INFO - Entered credentials
+2025-02-26 15:14:37,952 - INFO - atempting to login
+2025-02-26 15:14:40,910 - INFO - Item added to cart.
+2025-02-26 15:14:41,509 - INFO - Clicked on checkout button
+2025-02-26 15:14:41,548 - WARNING - Login failed.
+2025-02-26 15:14:43,673 - INFO - Popup detected and closed
+2025-02-26 15:14:47,673 - INFO - Entered credentials
+2025-02-26 15:14:48,119 - INFO - atempting to login
+2025-02-26 15:14:51,542 - WARNING - Login failed.
+2025-02-26 15:14:51,877 - INFO - Clicked on checkout button
+2025-02-26 15:14:55,492 - INFO - Navigating to order confirmation page
+2025-02-26 15:15:07,671 - INFO - Opened the detail page of the product 1
+2025-02-26 15:15:09,673 - INFO - Adding item in cart
+2025-02-26 15:15:09,873 - INFO - Entered credentials
+2025-02-26 15:15:16,544 - INFO - atempting to login
+2025-02-26 15:15:17,367 - INFO - Item added to cart.
+2025-02-26 15:15:17,966 - INFO - Clicked on checkout button
+2025-02-26 15:15:19,580 - INFO - Login successful.
+2025-02-26 15:15:20,152 - INFO - Popup detected and closed
+2025-02-26 15:15:26,663 - INFO - Clicked on checkout button
+2025-02-26 15:18:23,974 - INFO - Entered credentials
+2025-02-26 15:18:24,381 - INFO - atempting to login
+2025-02-26 15:18:27,669 - WARNING - Login failed.
+2025-02-26 15:18:33,676 - INFO - Entered credentials
+2025-02-26 15:18:34,201 - INFO - atempting to login
+2025-02-26 15:18:37,680 - WARNING - Login failed.
+2025-02-26 15:18:43,710 - INFO - Entered credentials
+2025-02-26 15:18:44,198 - INFO - atempting to login
+2025-02-26 15:18:47,611 - WARNING - Login failed.
+2025-02-26 15:18:53,580 - INFO - Entered credentials
+2025-02-26 15:19:01,598 - INFO - atempting to login
+2025-02-26 15:19:04,654 - INFO - Login successful.
+2025-02-26 15:19:20,426 - INFO - Opened the detail page of the product 1
+2025-02-26 15:19:22,428 - INFO - Adding item in cart
+2025-02-26 15:19:22,432 - ERROR - Failed to add item to cart: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=133.0.6943.128)
+Stacktrace:
+	GetHandleVerifier [0x00007FF68C59C6A5+28789]
+	(No symbol) [0x00007FF68C505B20]
+	(No symbol) [0x00007FF68C398F9A]
+	(No symbol) [0x00007FF68C384D75]
+	(No symbol) [0x00007FF68C3A9784]
+	(No symbol) [0x00007FF68C41F0BF]
+	(No symbol) [0x00007FF68C43F0D2]
+	(No symbol) [0x00007FF68C417103]
+	(No symbol) [0x00007FF68C3DFFC0]
+	(No symbol) [0x00007FF68C3E1273]
+	GetHandleVerifier [0x00007FF68C8E1AED+3458237]
+	GetHandleVerifier [0x00007FF68C8F829C+3550316]
+	GetHandleVerifier [0x00007FF68C8EDB9D+3507565]
+	GetHandleVerifier [0x00007FF68C662C6A+841274]
+	(No symbol) [0x00007FF68C5109EF]
+	(No symbol) [0x00007FF68C50CB34]
+	(No symbol) [0x00007FF68C50CCD6]
+	(No symbol) [0x00007FF68C4FC119]
+	BaseThreadInitThunk [0x00007FFE743D259D+29]
+	RtlUserThreadStart [0x00007FFE7638AF38+40]
+
+2025-02-26 15:19:22,966 - ERROR - Error during checkout: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF68C59C6A5+28789]
+	(No symbol) [0x00007FF68C505B20]
+	(No symbol) [0x00007FF68C398DCC]
+	(No symbol) [0x00007FF68C3DF1CF]
+	(No symbol) [0x00007FF68C4171F2]
+	(No symbol) [0x00007FF68C411B89]
+	(No symbol) [0x00007FF68C410C39]
+	(No symbol) [0x00007FF68C365595]
+	GetHandleVerifier [0x00007FF68C8E1AED+3458237]
+	GetHandleVerifier [0x00007FF68C8F829C+3550316]
+	GetHandleVerifier [0x00007FF68C8EDB9D+3507565]
+	GetHandleVerifier [0x00007FF68C662C6A+841274]
+	(No symbol) [0x00007FF68C5109EF]
+	(No symbol) [0x00007FF68C3641AE]
+	GetHandleVerifier [0x00007FF68C9666A8+4001912]
+	BaseThreadInitThunk [0x00007FFE743D259D+29]
+	RtlUserThreadStart [0x00007FFE7638AF38+40]
+
+2025-02-26 16:37:23,069 - ERROR - Error during checkout: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="checkoutbtn"]"}
+  (Session info: chrome=133.0.6943.128); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF68C59C6A5+28789]
+	(No symbol) [0x00007FF68C505B20]
+	(No symbol) [0x00007FF68C398F9A]
+	(No symbol) [0x00007FF68C3EF346]
+	(No symbol) [0x00007FF68C3EF57C]
+	(No symbol) [0x00007FF68C442B17]
+	(No symbol) [0x00007FF68C41736F]
+	(No symbol) [0x00007FF68C43F7E3]
+	(No symbol) [0x00007FF68C417103]
+	(No symbol) [0x00007FF68C3DFFC0]
+	(No symbol) [0x00007FF68C3E1273]
+	GetHandleVerifier [0x00007FF68C8E1AED+3458237]
+	GetHandleVerifier [0x00007FF68C8F829C+3550316]
+	GetHandleVerifier [0x00007FF68C8EDB9D+3507565]
+	GetHandleVerifier [0x00007FF68C662C6A+841274]
+	(No symbol) [0x00007FF68C5109EF]
+	(No symbol) [0x00007FF68C50CB34]
+	(No symbol) [0x00007FF68C50CCD6]
+	(No symbol) [0x00007FF68C4FC119]
+	BaseThreadInitThunk [0x00007FFE743D259D+29]
+	RtlUserThreadStart [0x00007FFE7638AF38+40]
+
+2025-02-26 16:37:31,038 - INFO - Entered credentials
+2025-02-26 16:37:31,367 - INFO - Entered credentials
+2025-02-26 16:37:32,708 - INFO - Entered credentials
+2025-02-26 16:37:32,723 - INFO - Entered credentials
+2025-02-26 16:37:33,352 - INFO - atempting to login
+2025-02-26 16:37:33,474 - INFO - atempting to login
+2025-02-26 16:37:35,389 - INFO - atempting to login
+2025-02-26 16:37:36,704 - WARNING - Login failed.
+2025-02-26 16:37:38,042 - ERROR - Error during checkout: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="checkoutbtn"]"}
+  (Session info: MicrosoftEdge=133.0.3065.82); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF762F3E735+13397]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7631CB1B4+2060276]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF763122338+1368440]
+	(No symbol) [0x00007FF762D132A9]
+	(No symbol) [0x00007FF762D1349B]
+	(No symbol) [0x00007FF762D540E7]
+	(No symbol) [0x00007FF762D3429F]
+	(No symbol) [0x00007FF762D0964D]
+	(No symbol) [0x00007FF762D51C00]
+	(No symbol) [0x00007FF762D33FC3]
+	(No symbol) [0x00007FF762D08B96]
+	(No symbol) [0x00007FF762D07E50]
+	(No symbol) [0x00007FF762D089C3]
+	(No symbol) [0x00007FF762D90214]
+	(No symbol) [0x00007FF762E206CF]
+	(No symbol) [0x00007FF762D93A53]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7632845BD+279981]
+	simdutf::get_active_implementation [0x00007FF762EC78C1+409457]
+	simdutf::get_active_implementation [0x00007FF762EC2BA4+389716]
+	simdutf::get_active_implementation [0x00007FF762EC2CE9+390041]
+	simdutf::get_active_implementation [0x00007FF762EB62E6+338326]
+	BaseThreadInitThunk [0x00007FFE743D259D+29]
+	RtlUserThreadStart [0x00007FFE7638AF38+40]
+
+2025-02-26 16:37:38,418 - INFO - atempting to login
+2025-02-26 16:37:38,420 - WARNING - Login failed.
+2025-02-26 16:37:38,984 - WARNING - Login failed.
+2025-02-26 16:37:41,576 - INFO - Login successful.
+2025-02-26 16:37:41,729 - INFO - Opened the detail page of the product 1
+2025-02-26 16:37:43,758 - INFO - Adding item in cart
+2025-02-26 16:37:47,671 - ERROR - Failed to add item to cart: Message: element click intercepted: Element <a href="javascript:void(0);" class="btn btn-primary" id="js-item-addtocartbtn-165084" disabled="false">...</a> is not clickable at point (840, 561). Other element would receive the click: <a href="https://www.halo.com/privacy-policy.aspx" target="_blank" class="learnmore" onclick="" title="...">Privacy Policy</a>
+  (Session info: chrome=133.0.6943.128)
+Stacktrace:
+	GetHandleVerifier [0x00007FF68C59C6A5+28789]
+	(No symbol) [0x00007FF68C505B20]
+	(No symbol) [0x00007FF68C398F9A]
+	(No symbol) [0x00007FF68C3F71E9]
+	(No symbol) [0x00007FF68C3F4BA2]
+	(No symbol) [0x00007FF68C3F1C51]
+	(No symbol) [0x00007FF68C3F0B51]
+	(No symbol) [0x00007FF68C3E2314]
+	(No symbol) [0x00007FF68C41732A]
+	(No symbol) [0x00007FF68C3E1BC6]
+	(No symbol) [0x00007FF68C417540]
+	(No symbol) [0x00007FF68C43F7E3]
+	(No symbol) [0x00007FF68C417103]
+	(No symbol) [0x00007FF68C3DFFC0]
+	(No symbol) [0x00007FF68C3E1273]
+	GetHandleVerifier [0x00007FF68C8E1AED+3458237]
+	GetHandleVerifier [0x00007FF68C8F829C+3550316]
+	GetHandleVerifier [0x00007FF68C8EDB9D+3507565]
+	GetHandleVerifier [0x00007FF68C662C6A+841274]
+	(No symbol) [0x00007FF68C5109EF]
+	(No symbol) [0x00007FF68C50CB34]
+	(No symbol) [0x00007FF68C50CCD6]
+	(No symbol) [0x00007FF68C4FC119]
+	BaseThreadInitThunk [0x00007FFE743D259D+29]
+	RtlUserThreadStart [0x00007FFE7638AF38+40]
+
+2025-02-26 16:37:56,469 - INFO - Entered credentials
+2025-02-26 16:37:57,166 - INFO - Entered credentials
+2025-02-26 16:37:57,712 - INFO - atempting to login
+2025-02-26 16:37:57,732 - INFO - Entered credentials
+2025-02-26 16:37:57,946 - INFO - atempting to login
+2025-02-26 16:38:00,367 - INFO - Entered credentials
+2025-02-26 16:38:01,396 - WARNING - Login failed.
+2025-02-26 16:38:01,671 - WARNING - Login failed.
+2025-02-26 16:38:04,798 - INFO - atempting to login
+2025-02-26 16:38:05,162 - INFO - atempting to login
+2025-02-26 16:38:07,823 - WARNING - Login failed.
+2025-02-26 16:38:08,200 - INFO - Login successful.
+2025-02-26 16:38:18,482 - INFO - Opened the detail page of the product 1
+2025-02-26 16:38:20,484 - INFO - Adding item in cart
+2025-02-26 16:38:21,239 - ERROR - Failed to add item to cart: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-02-26 19:01:21,157 - INFO - Entered credentials
+2025-02-26 19:01:28,731 - INFO - atempting to login
+2025-02-26 19:01:31,790 - INFO - Login successful.
+2025-02-26 19:45:39,986 - INFO - Entered credentials
+2025-02-26 19:45:47,599 - INFO - atempting to login
+2025-02-26 19:45:50,664 - INFO - Login successful.
+2025-02-26 19:46:23,045 - INFO - Opened the detail page of the product 1
+2025-02-26 19:46:25,047 - INFO - Adding item in cart
+2025-02-26 19:46:35,100 - INFO - Item added to cart.
+2025-02-26 19:46:52,261 - INFO - Opened the detail page of the product 1
+2025-02-26 19:46:54,264 - INFO - Adding item in cart
+2025-02-26 19:47:03,385 - INFO - Item added to cart.
+2025-02-26 19:47:04,021 - INFO - Clicked on checkout button
+2025-02-26 19:47:06,247 - INFO - Popup detected and closed
+2025-02-26 19:47:15,839 - INFO - Clicked on checkout button
+2025-02-26 19:47:19,441 - INFO - Navigating to order confirmation page
+2025-02-26 19:47:20,834 - ERROR - Error during checkout: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="checkoutbtn"]"}
+  (Session info: chrome=133.0.6943.128); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7A72EC6A5+28789]
+	(No symbol) [0x00007FF7A7255B20]
+	(No symbol) [0x00007FF7A70E8F9A]
+	(No symbol) [0x00007FF7A713F346]
+	(No symbol) [0x00007FF7A713F57C]
+	(No symbol) [0x00007FF7A7192B17]
+	(No symbol) [0x00007FF7A716736F]
+	(No symbol) [0x00007FF7A718F7E3]
+	(No symbol) [0x00007FF7A7167103]
+	(No symbol) [0x00007FF7A712FFC0]
+	(No symbol) [0x00007FF7A7131273]
+	GetHandleVerifier [0x00007FF7A7631AED+3458237]
+	GetHandleVerifier [0x00007FF7A764829C+3550316]
+	GetHandleVerifier [0x00007FF7A763DB9D+3507565]
+	GetHandleVerifier [0x00007FF7A73B2C6A+841274]
+	(No symbol) [0x00007FF7A72609EF]
+	(No symbol) [0x00007FF7A725CB34]
+	(No symbol) [0x00007FF7A725CCD6]
+	(No symbol) [0x00007FF7A724C119]
+	BaseThreadInitThunk [0x00007FFE743D259D+29]
+	RtlUserThreadStart [0x00007FFE7638AF38+40]
+
+2025-02-26 19:56:09,807 - INFO - Entered credentials
+2025-02-26 19:56:17,556 - INFO - atempting to login
+2025-02-26 19:56:17,659 - INFO - Login successful.
+2025-02-26 19:56:34,534 - INFO - Opened the detail page of the product 1
+2025-02-26 19:56:36,535 - INFO - Adding item in cart
+2025-02-26 19:56:54,703 - INFO - Item added to cart.
+2025-02-26 19:56:55,354 - INFO - Clicked on checkout button
+2025-02-26 19:59:52,134 - INFO - Entered credentials
+2025-02-26 19:59:59,228 - INFO - atempting to login
+2025-02-26 19:59:59,254 - INFO - Login successful.
+2025-02-26 20:00:17,631 - INFO - Opened the detail page of the product 1
+2025-02-26 20:00:19,632 - INFO - Adding item in cart
+2025-02-26 20:00:38,961 - INFO - Item added to cart.
+2025-02-26 20:00:39,627 - INFO - Clicked on checkout button
+2025-02-26 20:00:41,742 - INFO - Popup detected and closed
+2025-02-26 20:00:52,154 - INFO - Clicked on checkout button
+2025-02-26 20:01:16,173 - INFO - Navigating to order confirmation page
+2025-02-26 20:01:18,707 - INFO - Redirecting to payment gateway
+2025-02-26 20:01:34,102 - INFO - Redirected to payment gateway
+2025-02-26 20:02:29,150 - INFO - Entered Card holder name
+2025-02-26 20:02:30,229 - INFO - Switched to iframe
+2025-02-26 20:02:35,119 - INFO - Entered card number
+2025-02-26 20:02:37,132 - INFO - Switched back to main
+2025-02-26 20:02:38,378 - INFO - Entered card Exp date
+2025-02-26 20:02:39,547 - INFO - Entered cvv number
+2025-02-26 20:02:42,549 - INFO - Entered Payment details
+2025-02-26 20:02:44,933 - INFO - Checking if captcha required...
+2025-02-26 20:02:55,296 - INFO - Captcha button found.
+2025-02-26 20:02:57,503 - INFO - Clicking Captcha button.
+2025-02-26 20:03:13,020 - INFO - Checking if captcha required...
+2025-02-26 20:03:37,779 - INFO - Payment Successful.
+2025-02-26 20:03:50,248 - INFO - Order is placed. Order ID: 25022600001
+2025-02-26 20:16:20,331 - INFO - Entered credentials
+2025-02-26 20:16:31,365 - INFO - Opened the detail page of the product 1
+2025-02-26 20:16:32,498 - INFO - atempting to login
+2025-02-26 20:16:33,369 - INFO - Adding item in cart
+2025-02-26 20:16:35,561 - INFO - Login successful.
+2025-02-26 20:16:35,931 - ERROR - Failed to add item to cart: Message: element click intercepted: Element <a href="javascript:void(0);" class="btn btn-primary" id="js-item-addtocartbtn-165084" disabled="false">...</a> is not clickable at point (840, 561). Other element would receive the click: <a href="https://www.halo.com/privacy-policy.aspx" target="_blank" class="learnmore" onclick="" title="...">Privacy Policy</a>
+  (Session info: chrome=133.0.6943.128)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7A72EC6A5+28789]
+	(No symbol) [0x00007FF7A7255B20]
+	(No symbol) [0x00007FF7A70E8F9A]
+	(No symbol) [0x00007FF7A71471E9]
+	(No symbol) [0x00007FF7A7144BA2]
+	(No symbol) [0x00007FF7A7141C51]
+	(No symbol) [0x00007FF7A7140B51]
+	(No symbol) [0x00007FF7A7132314]
+	(No symbol) [0x00007FF7A716732A]
+	(No symbol) [0x00007FF7A7131BC6]
+	(No symbol) [0x00007FF7A7167540]
+	(No symbol) [0x00007FF7A718F7E3]
+	(No symbol) [0x00007FF7A7167103]
+	(No symbol) [0x00007FF7A712FFC0]
+	(No symbol) [0x00007FF7A7131273]
+	GetHandleVerifier [0x00007FF7A7631AED+3458237]
+	GetHandleVerifier [0x00007FF7A764829C+3550316]
+	GetHandleVerifier [0x00007FF7A763DB9D+3507565]
+	GetHandleVerifier [0x00007FF7A73B2C6A+841274]
+	(No symbol) [0x00007FF7A72609EF]
+	(No symbol) [0x00007FF7A725CB34]
+	(No symbol) [0x00007FF7A725CCD6]
+	(No symbol) [0x00007FF7A724C119]
+	BaseThreadInitThunk [0x00007FFE743D259D+29]
+	RtlUserThreadStart [0x00007FFE7638AF38+40]
+
+2025-02-26 20:16:52,650 - ERROR - Error during checkout: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF63C07E735+13397]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF63C30B1B4+2060276]
+	(No symbol) [0x00007FF63BE09405]
+	(No symbol) [0x00007FF63BE47663]
+	(No symbol) [0x00007FF63BE74122]
+	(No symbol) [0x00007FF63BE20871]
+	(No symbol) [0x00007FF63BE70C84]
+	(No symbol) [0x00007FF63BE7052A]
+	(No symbol) [0x00007FF63BDE34D5]
+	(No symbol) [0x00007FF63BED0214]
+	(No symbol) [0x00007FF63BF606CF]
+	(No symbol) [0x00007FF63BED3A53]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF63C3C45BD+279981]
+	simdutf::get_active_implementation [0x00007FF63C0078C1+409457]
+	(No symbol) [0x00007FF63BDE2413]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF63C212628+1041512]
+	BaseThreadInitThunk [0x00007FFE743D259D+29]
+	RtlUserThreadStart [0x00007FFE7638AF38+40]
+
+2025-02-26 20:17:44,728 - INFO - Entered credentials
+2025-02-26 20:17:51,340 - INFO - atempting to login
+2025-02-26 20:17:54,387 - INFO - Login successful.
+2025-02-26 20:18:06,731 - INFO - Entered credentials
+2025-02-26 20:18:15,185 - INFO - atempting to login
+2025-02-26 20:18:18,214 - INFO - Login successful.
+2025-02-26 20:22:50,743 - INFO - Entered credentials
+2025-02-26 20:22:57,735 - INFO - atempting to login
+2025-02-26 20:23:00,808 - INFO - Login successful.
+2025-02-26 20:23:00,934 - INFO - Opened the detail page of the product 1
+2025-02-26 20:23:02,935 - INFO - Adding item in cart
+2025-02-26 20:23:05,461 - ERROR - Failed to add item to cart: Message: element click intercepted: Element <a href="javascript:void(0);" class="btn btn-primary" id="js-item-addtocartbtn-165084" disabled="false">...</a> is not clickable at point (840, 561). Other element would receive the click: <a href="https://www.halo.com/privacy-policy.aspx" target="_blank" class="learnmore" onclick="" title="...">Privacy Policy</a>
+  (Session info: chrome=133.0.6943.128)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7A72EC6A5+28789]
+	(No symbol) [0x00007FF7A7255B20]
+	(No symbol) [0x00007FF7A70E8F9A]
+	(No symbol) [0x00007FF7A71471E9]
+	(No symbol) [0x00007FF7A7144BA2]
+	(No symbol) [0x00007FF7A7141C51]
+	(No symbol) [0x00007FF7A7140B51]
+	(No symbol) [0x00007FF7A7132314]
+	(No symbol) [0x00007FF7A716732A]
+	(No symbol) [0x00007FF7A7131BC6]
+	(No symbol) [0x00007FF7A7167540]
+	(No symbol) [0x00007FF7A718F7E3]
+	(No symbol) [0x00007FF7A7167103]
+	(No symbol) [0x00007FF7A712FFC0]
+	(No symbol) [0x00007FF7A7131273]
+	GetHandleVerifier [0x00007FF7A7631AED+3458237]
+	GetHandleVerifier [0x00007FF7A764829C+3550316]
+	GetHandleVerifier [0x00007FF7A763DB9D+3507565]
+	GetHandleVerifier [0x00007FF7A73B2C6A+841274]
+	(No symbol) [0x00007FF7A72609EF]
+	(No symbol) [0x00007FF7A725CB34]
+	(No symbol) [0x00007FF7A725CCD6]
+	(No symbol) [0x00007FF7A724C119]
+	BaseThreadInitThunk [0x00007FFE743D259D+29]
+	RtlUserThreadStart [0x00007FFE7638AF38+40]
+
+2025-02-26 20:23:12,966 - INFO - Entered credentials
+2025-02-26 20:23:19,117 - INFO - atempting to login
+2025-02-26 20:23:22,161 - INFO - Login successful.
+2025-02-26 20:23:26,040 - ERROR - Error during checkout: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="checkoutbtn"]"}
+  (Session info: chrome=133.0.6943.128); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7A72EC6A5+28789]
+	(No symbol) [0x00007FF7A7255B20]
+	(No symbol) [0x00007FF7A70E8F9A]
+	(No symbol) [0x00007FF7A713F346]
+	(No symbol) [0x00007FF7A713F57C]
+	(No symbol) [0x00007FF7A7192B17]
+	(No symbol) [0x00007FF7A716736F]
+	(No symbol) [0x00007FF7A718F7E3]
+	(No symbol) [0x00007FF7A7167103]
+	(No symbol) [0x00007FF7A712FFC0]
+	(No symbol) [0x00007FF7A7131273]
+	GetHandleVerifier [0x00007FF7A7631AED+3458237]
+	GetHandleVerifier [0x00007FF7A764829C+3550316]
+	GetHandleVerifier [0x00007FF7A763DB9D+3507565]
+	GetHandleVerifier [0x00007FF7A73B2C6A+841274]
+	(No symbol) [0x00007FF7A72609EF]
+	(No symbol) [0x00007FF7A725CB34]
+	(No symbol) [0x00007FF7A725CCD6]
+	(No symbol) [0x00007FF7A724C119]
+	BaseThreadInitThunk [0x00007FFE743D259D+29]
+	RtlUserThreadStart [0x00007FFE7638AF38+40]
+
+2025-02-26 20:23:31,245 - INFO - Opened the detail page of the product 1
+2025-02-26 20:23:58,520 - INFO - Entered credentials
+2025-02-26 20:24:06,880 - INFO - atempting to login
+2025-02-26 20:24:09,944 - INFO - Login successful.
+2025-02-26 20:27:00,323 - INFO - Entered credentials
+2025-02-26 20:27:06,628 - INFO - atempting to login
+2025-02-26 20:27:09,690 - INFO - Login successful.
+2025-02-26 20:31:10,629 - INFO - Entered credentials
+2025-02-26 20:31:17,050 - INFO - atempting to login
+2025-02-26 20:31:20,113 - INFO - Login successful.
+2025-02-26 20:31:38,273 - INFO - Opened the detail page of the product 1
+2025-02-26 20:31:40,274 - INFO - Adding item in cart
+2025-02-26 20:31:46,532 - ERROR - Failed to add item to cart: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=133.0.6943.128)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7A72EC6A5+28789]
+	(No symbol) [0x00007FF7A7255B20]
+	(No symbol) [0x00007FF7A70E8F9A]
+	(No symbol) [0x00007FF7A70C1563]
+	(No symbol) [0x00007FF7A716EF1E]
+	(No symbol) [0x00007FF7A718F0D2]
+	(No symbol) [0x00007FF7A7167103]
+	(No symbol) [0x00007FF7A712FFC0]
+	(No symbol) [0x00007FF7A7131273]
+	GetHandleVerifier [0x00007FF7A7631AED+3458237]
+	GetHandleVerifier [0x00007FF7A764829C+3550316]
+	GetHandleVerifier [0x00007FF7A763DB9D+3507565]
+	GetHandleVerifier [0x00007FF7A73B2C6A+841274]
+	(No symbol) [0x00007FF7A72609EF]
+	(No symbol) [0x00007FF7A725CB34]
+	(No symbol) [0x00007FF7A725CCD6]
+	(No symbol) [0x00007FF7A724C119]
+	BaseThreadInitThunk [0x00007FFE743D259D+29]
+	RtlUserThreadStart [0x00007FFE7638AF38+40]
+
+2025-02-26 20:31:47,149 - ERROR - Error during checkout: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=133.0.6943.128)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7A72EC6A5+28789]
+	(No symbol) [0x00007FF7A7255B20]
+	(No symbol) [0x00007FF7A70E8F9A]
+	(No symbol) [0x00007FF7A70C1563]
+	(No symbol) [0x00007FF7A716EF1E]
+	(No symbol) [0x00007FF7A718F0D2]
+	(No symbol) [0x00007FF7A7167103]
+	(No symbol) [0x00007FF7A712FFC0]
+	(No symbol) [0x00007FF7A7131273]
+	GetHandleVerifier [0x00007FF7A7631AED+3458237]
+	GetHandleVerifier [0x00007FF7A764829C+3550316]
+	GetHandleVerifier [0x00007FF7A763DB9D+3507565]
+	GetHandleVerifier [0x00007FF7A73B2C6A+841274]
+	(No symbol) [0x00007FF7A72609EF]
+	(No symbol) [0x00007FF7A725CB34]
+	(No symbol) [0x00007FF7A725CCD6]
+	(No symbol) [0x00007FF7A724C119]
+	BaseThreadInitThunk [0x00007FFE743D259D+29]
+	RtlUserThreadStart [0x00007FFE7638AF38+40]
+
+2025-02-27 08:42:05,888 - INFO - Entered credentials
+2025-02-27 08:42:12,494 - INFO - atempting to login
+2025-02-27 08:42:15,530 - INFO - Login successful.
+2025-02-27 08:42:30,331 - INFO - Opened the detail page of the product 1
+2025-02-27 08:42:32,332 - INFO - Adding item in cart
+2025-02-27 08:42:40,172 - INFO - Item added to cart.
+2025-02-27 08:42:40,836 - INFO - Clicked on checkout button
+2025-02-27 08:42:42,952 - INFO - Popup detected and closed
+2025-02-27 08:42:51,850 - INFO - Clicked on checkout button
+2025-02-27 08:43:04,470 - INFO - Navigating to order confirmation page
+2025-02-27 08:43:06,875 - INFO - Redirecting to payment gateway
+2025-02-27 08:43:20,497 - INFO - Redirected to payment gateway
+2025-02-27 08:43:30,963 - INFO - Entered Card holder name
+2025-02-27 08:43:32,026 - INFO - Switched to iframe
+2025-02-27 08:43:36,659 - INFO - Entered card number
+2025-02-27 08:43:38,665 - INFO - Switched back to main
+2025-02-27 08:43:39,797 - INFO - Entered card Exp date
+2025-02-27 08:43:40,899 - INFO - Entered cvv number
+2025-02-27 08:43:43,900 - INFO - Entered Payment details
+2025-02-27 08:43:46,293 - INFO - Checking if captcha required...
+2025-02-27 08:43:57,662 - INFO - Payment Successful.
+2025-02-27 08:44:24,408 - INFO - Entered credentials
+2025-02-27 08:44:28,449 - INFO - atempting to login
+2025-02-27 08:44:31,715 - ERROR - Error during checkout: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF62133E735+13397]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6215CB1B4+2060276]
+	(No symbol) [0x00007FF6210C9405]
+	(No symbol) [0x00007FF621107663]
+	(No symbol) [0x00007FF621134122]
+	(No symbol) [0x00007FF6210E0871]
+	(No symbol) [0x00007FF621130C84]
+	(No symbol) [0x00007FF62113052A]
+	(No symbol) [0x00007FF6210A34D5]
+	(No symbol) [0x00007FF621190214]
+	(No symbol) [0x00007FF6212206CF]
+	(No symbol) [0x00007FF621193A53]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6216845BD+279981]
+	simdutf::get_active_implementation [0x00007FF6212C78C1+409457]
+	(No symbol) [0x00007FF6210A2413]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6214D2628+1041512]
+	BaseThreadInitThunk [0x00007FFE743D259D+29]
+	RtlUserThreadStart [0x00007FFE7638AF38+40]
+
+2025-02-27 08:45:15,475 - INFO - Entered credentials
+2025-02-27 08:45:21,792 - INFO - atempting to login
+2025-02-27 08:45:24,396 - INFO - Opened the detail page of the product 1
+2025-02-27 08:45:24,831 - INFO - Login successful.
+2025-02-27 08:45:24,926 - INFO - Clicked on checkout button
+2025-02-27 08:45:26,397 - INFO - Adding item in cart
+2025-02-27 08:45:27,032 - INFO - Popup detected and closed
+2025-02-27 08:45:28,893 - ERROR - Failed to add item to cart: Message: element click intercepted: Element <a href="javascript:void(0);" class="btn btn-primary" id="js-item-addtocartbtn-165084" disabled="false">...</a> is not clickable at point (840, 561). Other element would receive the click: <a href="https://www.halo.com/privacy-policy.aspx" target="_blank" class="learnmore" onclick="" title="...">Privacy Policy</a>
+  (Session info: chrome=133.0.6943.128)
+Stacktrace:
+	GetHandleVerifier [0x00007FF75CC2C6A5+28789]
+	(No symbol) [0x00007FF75CB95B20]
+	(No symbol) [0x00007FF75CA28F9A]
+	(No symbol) [0x00007FF75CA871E9]
+	(No symbol) [0x00007FF75CA84BA2]
+	(No symbol) [0x00007FF75CA81C51]
+	(No symbol) [0x00007FF75CA80B51]
+	(No symbol) [0x00007FF75CA72314]
+	(No symbol) [0x00007FF75CAA732A]
+	(No symbol) [0x00007FF75CA71BC6]
+	(No symbol) [0x00007FF75CAA7540]
+	(No symbol) [0x00007FF75CACF7E3]
+	(No symbol) [0x00007FF75CAA7103]
+	(No symbol) [0x00007FF75CA6FFC0]
+	(No symbol) [0x00007FF75CA71273]
+	GetHandleVerifier [0x00007FF75CF71AED+3458237]
+	GetHandleVerifier [0x00007FF75CF8829C+3550316]
+	GetHandleVerifier [0x00007FF75CF7DB9D+3507565]
+	GetHandleVerifier [0x00007FF75CCF2C6A+841274]
+	(No symbol) [0x00007FF75CBA09EF]
+	(No symbol) [0x00007FF75CB9CB34]
+	(No symbol) [0x00007FF75CB9CCD6]
+	(No symbol) [0x00007FF75CB8C119]
+	BaseThreadInitThunk [0x00007FFE743D259D+29]
+	RtlUserThreadStart [0x00007FFE7638AF38+40]
+
+2025-02-27 08:45:33,336 - INFO - Clicked on checkout button
+2025-02-27 08:45:35,339 - ERROR - Error during checkout: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=133.0.6943.128)
+Stacktrace:
+	GetHandleVerifier [0x00007FF75CC2C6A5+28789]
+	(No symbol) [0x00007FF75CB95B20]
+	(No symbol) [0x00007FF75CA28F9A]
+	(No symbol) [0x00007FF75CA14D75]
+	(No symbol) [0x00007FF75CA39784]
+	(No symbol) [0x00007FF75CAAF0BF]
+	(No symbol) [0x00007FF75CACF0D2]
+	(No symbol) [0x00007FF75CAA7103]
+	(No symbol) [0x00007FF75CA6FFC0]
+	(No symbol) [0x00007FF75CA71273]
+	GetHandleVerifier [0x00007FF75CF71AED+3458237]
+	GetHandleVerifier [0x00007FF75CF8829C+3550316]
+	GetHandleVerifier [0x00007FF75CF7DB9D+3507565]
+	GetHandleVerifier [0x00007FF75CCF2C6A+841274]
+	(No symbol) [0x00007FF75CBA09EF]
+	(No symbol) [0x00007FF75CB9CB34]
+	(No symbol) [0x00007FF75CB9CCD6]
+	(No symbol) [0x00007FF75CB8C119]
+	BaseThreadInitThunk [0x00007FFE743D259D+29]
+	RtlUserThreadStart [0x00007FFE7638AF38+40]
+
+2025-02-27 08:47:55,168 - INFO - Entered credentials
+2025-02-27 08:48:02,832 - INFO - atempting to login
+2025-02-27 08:48:05,882 - INFO - Login successful.
+2025-02-27 08:48:06,141 - INFO - Opened the detail page of the product 1
+2025-02-27 08:48:08,142 - INFO - Adding item in cart
+2025-02-27 08:48:08,178 - ERROR - Failed to add item to cart: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=133.0.6943.128)
+Stacktrace:
+	GetHandleVerifier [0x00007FF75CC2C6A5+28789]
+	(No symbol) [0x00007FF75CB95B20]
+	(No symbol) [0x00007FF75CA28F9A]
+	(No symbol) [0x00007FF75CA14D75]
+	(No symbol) [0x00007FF75CA39784]
+	(No symbol) [0x00007FF75CAAF0BF]
+	(No symbol) [0x00007FF75CACF0D2]
+	(No symbol) [0x00007FF75CAA7103]
+	(No symbol) [0x00007FF75CA6FFC0]
+	(No symbol) [0x00007FF75CA71273]
+	GetHandleVerifier [0x00007FF75CF71AED+3458237]
+	GetHandleVerifier [0x00007FF75CF8829C+3550316]
+	GetHandleVerifier [0x00007FF75CF7DB9D+3507565]
+	GetHandleVerifier [0x00007FF75CCF2C6A+841274]
+	(No symbol) [0x00007FF75CBA09EF]
+	(No symbol) [0x00007FF75CB9CB34]
+	(No symbol) [0x00007FF75CB9CCD6]
+	(No symbol) [0x00007FF75CB8C119]
+	BaseThreadInitThunk [0x00007FFE743D259D+29]
+	RtlUserThreadStart [0x00007FFE7638AF38+40]
+
+2025-02-27 08:48:21,213 - ERROR - Error during checkout: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="checkoutbtn"]"}
+  (Session info: chrome=133.0.6943.128); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF75CC2C6A5+28789]
+	(No symbol) [0x00007FF75CB95B20]
+	(No symbol) [0x00007FF75CA28F9A]
+	(No symbol) [0x00007FF75CA7F346]
+	(No symbol) [0x00007FF75CA7F57C]
+	(No symbol) [0x00007FF75CAD2B17]
+	(No symbol) [0x00007FF75CAA736F]
+	(No symbol) [0x00007FF75CACF7E3]
+	(No symbol) [0x00007FF75CAA7103]
+	(No symbol) [0x00007FF75CA6FFC0]
+	(No symbol) [0x00007FF75CA71273]
+	GetHandleVerifier [0x00007FF75CF71AED+3458237]
+	GetHandleVerifier [0x00007FF75CF8829C+3550316]
+	GetHandleVerifier [0x00007FF75CF7DB9D+3507565]
+	GetHandleVerifier [0x00007FF75CCF2C6A+841274]
+	(No symbol) [0x00007FF75CBA09EF]
+	(No symbol) [0x00007FF75CB9CB34]
+	(No symbol) [0x00007FF75CB9CCD6]
+	(No symbol) [0x00007FF75CB8C119]
+	BaseThreadInitThunk [0x00007FFE743D259D+29]
+	RtlUserThreadStart [0x00007FFE7638AF38+40]
+
+2025-02-27 08:48:25,138 - ERROR - Error during checkout: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="checkoutbtn"]"}
+  (Session info: MicrosoftEdge=133.0.3065.82); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF62133E735+13397]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6215CB1B4+2060276]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF621522338+1368440]
+	(No symbol) [0x00007FF6211132A9]
+	(No symbol) [0x00007FF62111349B]
+	(No symbol) [0x00007FF6211540E7]
+	(No symbol) [0x00007FF62113429F]
+	(No symbol) [0x00007FF62110964D]
+	(No symbol) [0x00007FF621151C00]
+	(No symbol) [0x00007FF621133FC3]
+	(No symbol) [0x00007FF621108B96]
+	(No symbol) [0x00007FF621107E50]
+	(No symbol) [0x00007FF6211089C3]
+	(No symbol) [0x00007FF621190214]
+	(No symbol) [0x00007FF6212206CF]
+	(No symbol) [0x00007FF621193A53]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6216845BD+279981]
+	simdutf::get_active_implementation [0x00007FF6212C78C1+409457]
+	simdutf::get_active_implementation [0x00007FF6212C2BA4+389716]
+	simdutf::get_active_implementation [0x00007FF6212C2CE9+390041]
+	simdutf::get_active_implementation [0x00007FF6212B62E6+338326]
+	BaseThreadInitThunk [0x00007FFE743D259D+29]
+	RtlUserThreadStart [0x00007FFE7638AF38+40]
+
+2025-02-27 08:49:35,398 - INFO - Entered credentials
+2025-02-27 08:49:42,929 - INFO - atempting to login
+2025-02-27 08:49:44,502 - INFO - Opened the detail page of the product 1
+2025-02-27 08:49:45,989 - INFO - Login successful.
+2025-02-27 08:49:46,504 - INFO - Adding item in cart
+2025-02-27 08:49:48,988 - ERROR - Failed to add item to cart: Message: element click intercepted: Element <a href="javascript:void(0);" class="btn btn-primary" id="js-item-addtocartbtn-165084" disabled="false">...</a> is not clickable at point (840, 561). Other element would receive the click: <a href="https://www.halo.com/privacy-policy.aspx" target="_blank" class="learnmore" onclick="" title="...">Privacy Policy</a>
+  (Session info: chrome=133.0.6943.128)
+Stacktrace:
+	GetHandleVerifier [0x00007FF75CC2C6A5+28789]
+	(No symbol) [0x00007FF75CB95B20]
+	(No symbol) [0x00007FF75CA28F9A]
+	(No symbol) [0x00007FF75CA871E9]
+	(No symbol) [0x00007FF75CA84BA2]
+	(No symbol) [0x00007FF75CA81C51]
+	(No symbol) [0x00007FF75CA80B51]
+	(No symbol) [0x00007FF75CA72314]
+	(No symbol) [0x00007FF75CAA732A]
+	(No symbol) [0x00007FF75CA71BC6]
+	(No symbol) [0x00007FF75CAA7540]
+	(No symbol) [0x00007FF75CACF7E3]
+	(No symbol) [0x00007FF75CAA7103]
+	(No symbol) [0x00007FF75CA6FFC0]
+	(No symbol) [0x00007FF75CA71273]
+	GetHandleVerifier [0x00007FF75CF71AED+3458237]
+	GetHandleVerifier [0x00007FF75CF8829C+3550316]
+	GetHandleVerifier [0x00007FF75CF7DB9D+3507565]
+	GetHandleVerifier [0x00007FF75CCF2C6A+841274]
+	(No symbol) [0x00007FF75CBA09EF]
+	(No symbol) [0x00007FF75CB9CB34]
+	(No symbol) [0x00007FF75CB9CCD6]
+	(No symbol) [0x00007FF75CB8C119]
+	BaseThreadInitThunk [0x00007FFE743D259D+29]
+	RtlUserThreadStart [0x00007FFE7638AF38+40]
+
+2025-02-27 08:50:01,331 - ERROR - Error during checkout: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="checkoutbtn"]"}
+  (Session info: chrome=133.0.6943.128); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF75CC2C6A5+28789]
+	(No symbol) [0x00007FF75CB95B20]
+	(No symbol) [0x00007FF75CA28F9A]
+	(No symbol) [0x00007FF75CA7F346]
+	(No symbol) [0x00007FF75CA7F57C]
+	(No symbol) [0x00007FF75CAD2B17]
+	(No symbol) [0x00007FF75CAA736F]
+	(No symbol) [0x00007FF75CACF7E3]
+	(No symbol) [0x00007FF75CAA7103]
+	(No symbol) [0x00007FF75CA6FFC0]
+	(No symbol) [0x00007FF75CA71273]
+	GetHandleVerifier [0x00007FF75CF71AED+3458237]
+	GetHandleVerifier [0x00007FF75CF8829C+3550316]
+	GetHandleVerifier [0x00007FF75CF7DB9D+3507565]
+	GetHandleVerifier [0x00007FF75CCF2C6A+841274]
+	(No symbol) [0x00007FF75CBA09EF]
+	(No symbol) [0x00007FF75CB9CB34]
+	(No symbol) [0x00007FF75CB9CCD6]
+	(No symbol) [0x00007FF75CB8C119]
+	BaseThreadInitThunk [0x00007FFE743D259D+29]
+	RtlUserThreadStart [0x00007FFE7638AF38+40]
+
+2025-02-27 09:08:42,696 - INFO - Entered credentials
+2025-02-27 09:08:49,349 - INFO - atempting to login
+2025-02-27 09:08:52,371 - INFO - Login successful.
+2025-02-27 09:09:06,998 - INFO - Opened the detail page of the product 1
+2025-02-27 09:09:08,999 - INFO - Adding item in cart
+2025-02-27 09:09:16,413 - INFO - Item added to cart.
+2025-02-27 09:09:17,055 - INFO - Clicked on checkout button
+2025-02-27 09:09:19,181 - INFO - Popup detected and closed
+2025-02-27 09:09:27,063 - INFO - Clicked on checkout button
+2025-02-27 09:09:38,380 - INFO - Navigating to order confirmation page
+2025-02-27 09:09:40,787 - INFO - Redirecting to payment gateway
+2025-02-27 09:09:53,567 - INFO - Redirected to payment gateway
+2025-02-27 09:09:59,974 - INFO - Entered Card holder name
+2025-02-27 09:10:01,002 - INFO - Switched to iframe
+2025-02-27 10:12:02,416 - ERROR - Error during checkout: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF75CC2C6A5+28789]
+	(No symbol) [0x00007FF75CB95B20]
+	(No symbol) [0x00007FF75CA28DCC]
+	(No symbol) [0x00007FF75CA6F1CF]
+	(No symbol) [0x00007FF75CAA71F2]
+	(No symbol) [0x00007FF75CAA1B89]
+	(No symbol) [0x00007FF75CAA0C39]
+	(No symbol) [0x00007FF75C9F5595]
+	GetHandleVerifier [0x00007FF75CF71AED+3458237]
+	GetHandleVerifier [0x00007FF75CF8829C+3550316]
+	GetHandleVerifier [0x00007FF75CF7DB9D+3507565]
+	GetHandleVerifier [0x00007FF75CCF2C6A+841274]
+	(No symbol) [0x00007FF75CBA09EF]
+	(No symbol) [0x00007FF75C9F41AE]
+	GetHandleVerifier [0x00007FF75CFF66A8+4001912]
+	BaseThreadInitThunk [0x00007FFE743D259D+29]
+	RtlUserThreadStart [0x00007FFE7638AF38+40]
+
+2025-02-27 10:13:51,021 - ERROR - Error during checkout: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="checkoutbtn"]"}
+  (Session info: chrome=133.0.6943.128); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF75CC2C6A5+28789]
+	(No symbol) [0x00007FF75CB95B20]
+	(No symbol) [0x00007FF75CA28F9A]
+	(No symbol) [0x00007FF75CA7F346]
+	(No symbol) [0x00007FF75CA7F57C]
+	(No symbol) [0x00007FF75CAD2B17]
+	(No symbol) [0x00007FF75CAA736F]
+	(No symbol) [0x00007FF75CACF7E3]
+	(No symbol) [0x00007FF75CAA7103]
+	(No symbol) [0x00007FF75CA6FFC0]
+	(No symbol) [0x00007FF75CA71273]
+	GetHandleVerifier [0x00007FF75CF71AED+3458237]
+	GetHandleVerifier [0x00007FF75CF8829C+3550316]
+	GetHandleVerifier [0x00007FF75CF7DB9D+3507565]
+	GetHandleVerifier [0x00007FF75CCF2C6A+841274]
+	(No symbol) [0x00007FF75CBA09EF]
+	(No symbol) [0x00007FF75CB9CB34]
+	(No symbol) [0x00007FF75CB9CCD6]
+	(No symbol) [0x00007FF75CB8C119]
+	BaseThreadInitThunk [0x00007FFE743D259D+29]
+	RtlUserThreadStart [0x00007FFE7638AF38+40]
+
+2025-02-27 10:13:58,453 - INFO - Entered credentials
+2025-02-27 10:14:05,892 - INFO - atempting to login
+2025-02-27 10:14:08,960 - INFO - Login successful.
+2025-02-27 10:14:19,244 - INFO - Opened the detail page of the product 1
+2025-02-27 10:14:21,245 - INFO - Adding item in cart
+2025-02-27 10:14:21,248 - ERROR - Failed to add item to cart: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=133.0.6943.128)
+Stacktrace:
+	GetHandleVerifier [0x00007FF75CC2C6A5+28789]
+	(No symbol) [0x00007FF75CB95B20]
+	(No symbol) [0x00007FF75CA28F9A]
+	(No symbol) [0x00007FF75CA14D75]
+	(No symbol) [0x00007FF75CA39784]
+	(No symbol) [0x00007FF75CAAF0BF]
+	(No symbol) [0x00007FF75CACF0D2]
+	(No symbol) [0x00007FF75CAA7103]
+	(No symbol) [0x00007FF75CA6FFC0]
+	(No symbol) [0x00007FF75CA71273]
+	GetHandleVerifier [0x00007FF75CF71AED+3458237]
+	GetHandleVerifier [0x00007FF75CF8829C+3550316]
+	GetHandleVerifier [0x00007FF75CF7DB9D+3507565]
+	GetHandleVerifier [0x00007FF75CCF2C6A+841274]
+	(No symbol) [0x00007FF75CBA09EF]
+	(No symbol) [0x00007FF75CB9CB34]
+	(No symbol) [0x00007FF75CB9CCD6]
+	(No symbol) [0x00007FF75CB8C119]
+	BaseThreadInitThunk [0x00007FFE743D259D+29]
+	RtlUserThreadStart [0x00007FFE7638AF38+40]
+
+2025-02-27 10:53:29,454 - INFO - Entered credentials
+2025-02-27 10:53:36,179 - INFO - atempting to login
+2025-02-27 10:53:39,250 - INFO - Login successful.
+2025-02-27 10:53:50,844 - INFO - Entered credentials
+2025-02-27 10:53:58,550 - INFO - atempting to login
+2025-02-27 10:54:01,578 - INFO - Login successful.
+2025-02-28 09:15:22,385 - INFO - Entered credentials
+2025-02-28 09:15:28,124 - ERROR - Error during checkout: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF66C30C6A5+28789]
+	(No symbol) [0x00007FF66C275B20]
+	(No symbol) [0x00007FF66C108DCC]
+	(No symbol) [0x00007FF66C14F1CF]
+	(No symbol) [0x00007FF66C1871F2]
+	(No symbol) [0x00007FF66C181B89]
+	(No symbol) [0x00007FF66C180C39]
+	(No symbol) [0x00007FF66C0D5595]
+	GetHandleVerifier [0x00007FF66C651AED+3458237]
+	GetHandleVerifier [0x00007FF66C66829C+3550316]
+	GetHandleVerifier [0x00007FF66C65DB9D+3507565]
+	GetHandleVerifier [0x00007FF66C3D2C6A+841274]
+	(No symbol) [0x00007FF66C2809EF]
+	(No symbol) [0x00007FF66C0D41AE]
+	GetHandleVerifier [0x00007FF66C6D66A8+4001912]
+	BaseThreadInitThunk [0x00007FFE743D259D+29]
+	RtlUserThreadStart [0x00007FFE7638AF38+40]
+
+2025-02-28 09:15:34,653 - INFO - atempting to login
+2025-02-28 09:15:52,313 - INFO - Entered credentials
+2025-02-28 09:15:56,901 - INFO - Entered credentials
+2025-02-28 09:15:59,708 - INFO - atempting to login
+2025-02-28 09:16:01,993 - INFO - Entered credentials
+2025-02-28 09:16:02,895 - INFO - Login successful.
+2025-02-28 09:16:03,078 - INFO - atempting to login
+2025-02-28 09:16:04,778 - ERROR - Error during checkout: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=133.0.3065.82)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6559AE735+13397]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF655C3B1B4+2060276]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF655B92338+1368440]
+	(No symbol) [0x00007FF65571A202]
+	(No symbol) [0x00007FF6557A9F70]
+	(No symbol) [0x00007FF6557C13AD]
+	(No symbol) [0x00007FF6557A3FC3]
+	(No symbol) [0x00007FF655778B96]
+	(No symbol) [0x00007FF655777E50]
+	(No symbol) [0x00007FF6557789C3]
+	(No symbol) [0x00007FF655800214]
+	(No symbol) [0x00007FF6558906CF]
+	(No symbol) [0x00007FF655803A53]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF655CF45BD+279981]
+	simdutf::get_active_implementation [0x00007FF6559378C1+409457]
+	simdutf::get_active_implementation [0x00007FF655932BA4+389716]
+	simdutf::get_active_implementation [0x00007FF655932CE9+390041]
+	simdutf::get_active_implementation [0x00007FF6559262E6+338326]
+	BaseThreadInitThunk [0x00007FFE743D259D+29]
+	RtlUserThreadStart [0x00007FFE7638AF38+40]
+
+2025-02-28 09:16:28,241 - ERROR - Error during checkout: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF66C30C6A5+28789]
+	(No symbol) [0x00007FF66C275B20]
+	(No symbol) [0x00007FF66C108DCC]
+	(No symbol) [0x00007FF66C14F1CF]
+	(No symbol) [0x00007FF66C1871F2]
+	(No symbol) [0x00007FF66C181B89]
+	(No symbol) [0x00007FF66C180C39]
+	(No symbol) [0x00007FF66C0D5595]
+	GetHandleVerifier [0x00007FF66C651AED+3458237]
+	GetHandleVerifier [0x00007FF66C66829C+3550316]
+	GetHandleVerifier [0x00007FF66C65DB9D+3507565]
+	GetHandleVerifier [0x00007FF66C3D2C6A+841274]
+	(No symbol) [0x00007FF66C2809EF]
+	(No symbol) [0x00007FF66C0D41AE]
+	GetHandleVerifier [0x00007FF66C6D66A8+4001912]
+	BaseThreadInitThunk [0x00007FFE743D259D+29]
+	RtlUserThreadStart [0x00007FFE7638AF38+40]
+
+2025-02-28 09:16:29,604 - ERROR - Error during checkout: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF66C30C6A5+28789]
+	(No symbol) [0x00007FF66C275B20]
+	(No symbol) [0x00007FF66C108DCC]
+	(No symbol) [0x00007FF66C14F1CF]
+	(No symbol) [0x00007FF66C1871F2]
+	(No symbol) [0x00007FF66C181B89]
+	(No symbol) [0x00007FF66C180C39]
+	(No symbol) [0x00007FF66C0D5595]
+	GetHandleVerifier [0x00007FF66C651AED+3458237]
+	GetHandleVerifier [0x00007FF66C66829C+3550316]
+	GetHandleVerifier [0x00007FF66C65DB9D+3507565]
+	GetHandleVerifier [0x00007FF66C3D2C6A+841274]
+	(No symbol) [0x00007FF66C2809EF]
+	(No symbol) [0x00007FF66C0D41AE]
+	GetHandleVerifier [0x00007FF66C6D66A8+4001912]
+	BaseThreadInitThunk [0x00007FFE743D259D+29]
+	RtlUserThreadStart [0x00007FFE7638AF38+40]
+
+2025-02-28 09:16:29,642 - ERROR - Error during checkout: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF6559AE735+13397]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF655C3B1B4+2060276]
+	(No symbol) [0x00007FF655739405]
+	(No symbol) [0x00007FF655777663]
+	(No symbol) [0x00007FF6557A4122]
+	(No symbol) [0x00007FF655750871]
+	(No symbol) [0x00007FF6557A0C84]
+	(No symbol) [0x00007FF6557A052A]
+	(No symbol) [0x00007FF6557134D5]
+	(No symbol) [0x00007FF655800214]
+	(No symbol) [0x00007FF6558906CF]
+	(No symbol) [0x00007FF655803A53]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF655CF45BD+279981]
+	simdutf::get_active_implementation [0x00007FF6559378C1+409457]
+	(No symbol) [0x00007FF655712413]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF655B42628+1041512]
+	BaseThreadInitThunk [0x00007FFE743D259D+29]
+	RtlUserThreadStart [0x00007FFE7638AF38+40]
+
+2025-02-28 09:16:43,627 - ERROR - Error during checkout: HTTPConnectionPool(host='localhost', port=60305): Max retries exceeded with url: /session/2fb4372df29c1aedd2141609513eda71/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000223F4A8B130>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-02-28 09:16:44,053 - ERROR - Error during checkout: HTTPConnectionPool(host='localhost', port=60316): Max retries exceeded with url: /session/25c227cad5001101115bde24fec98558/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000023014C77130>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-02-28 09:16:44,442 - ERROR - Error during checkout: HTTPConnectionPool(host='localhost', port=60308): Max retries exceeded with url: /session/a20e33ae6028efa8c744c770cb4ae1fa/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000147E2F97130>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-02-28 09:16:44,709 - ERROR - Error during checkout: HTTPConnectionPool(host='localhost', port=60311): Max retries exceeded with url: /session/a982d50da74b39589c5b985478df963b/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000015CB3B43130>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-02-28 09:17:14,967 - ERROR - Error during checkout: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="checkoutbtn"]"}
+  (Session info: chrome=133.0.6943.142); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF66C30C6A5+28789]
+	(No symbol) [0x00007FF66C275B20]
+	(No symbol) [0x00007FF66C108F9A]
+	(No symbol) [0x00007FF66C15F346]
+	(No symbol) [0x00007FF66C15F57C]
+	(No symbol) [0x00007FF66C1B2B17]
+	(No symbol) [0x00007FF66C18736F]
+	(No symbol) [0x00007FF66C1AF7E3]
+	(No symbol) [0x00007FF66C187103]
+	(No symbol) [0x00007FF66C14FFC0]
+	(No symbol) [0x00007FF66C151273]
+	GetHandleVerifier [0x00007FF66C651AED+3458237]
+	GetHandleVerifier [0x00007FF66C66829C+3550316]
+	GetHandleVerifier [0x00007FF66C65DB9D+3507565]
+	GetHandleVerifier [0x00007FF66C3D2C6A+841274]
+	(No symbol) [0x00007FF66C2809EF]
+	(No symbol) [0x00007FF66C27CB34]
+	(No symbol) [0x00007FF66C27CCD6]
+	(No symbol) [0x00007FF66C26C119]
+	BaseThreadInitThunk [0x00007FFE743D259D+29]
+	RtlUserThreadStart [0x00007FFE7638AF38+40]
+
+2025-02-28 09:17:15,227 - ERROR - Error during checkout: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="checkoutbtn"]"}
+  (Session info: MicrosoftEdge=133.0.3065.82); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6559AE735+13397]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF655C3B1B4+2060276]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF655B92338+1368440]
+	(No symbol) [0x00007FF6557832A9]
+	(No symbol) [0x00007FF65578349B]
+	(No symbol) [0x00007FF6557C40E7]
+	(No symbol) [0x00007FF6557A429F]
+	(No symbol) [0x00007FF65577964D]
+	(No symbol) [0x00007FF6557C1C00]
+	(No symbol) [0x00007FF6557A3FC3]
+	(No symbol) [0x00007FF655778B96]
+	(No symbol) [0x00007FF655777E50]
+	(No symbol) [0x00007FF6557789C3]
+	(No symbol) [0x00007FF655800214]
+	(No symbol) [0x00007FF6558906CF]
+	(No symbol) [0x00007FF655803A53]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF655CF45BD+279981]
+	simdutf::get_active_implementation [0x00007FF6559378C1+409457]
+	simdutf::get_active_implementation [0x00007FF655932BA4+389716]
+	simdutf::get_active_implementation [0x00007FF655932CE9+390041]
+	simdutf::get_active_implementation [0x00007FF6559262E6+338326]
+	BaseThreadInitThunk [0x00007FFE743D259D+29]
+	RtlUserThreadStart [0x00007FFE7638AF38+40]
+
+2025-02-28 09:17:20,402 - ERROR - Error during checkout: HTTPConnectionPool(host='localhost', port=60559): Max retries exceeded with url: /session/6fee231722ddc976d280ee6148666722/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000020EE3157130>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-02-28 09:17:20,720 - ERROR - Error during checkout: HTTPConnectionPool(host='localhost', port=60555): Max retries exceeded with url: /session/052561c1a39b557c7a4d76e11bb05bc5/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000016CC62DB130>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-02-28 09:17:29,974 - INFO - Entered credentials
+2025-02-28 09:17:39,016 - INFO - Entered credentials
+2025-02-28 09:17:39,514 - INFO - atempting to login
+2025-02-28 09:17:43,172 - INFO - Login successful.
+2025-02-28 09:17:50,414 - INFO - atempting to login
+2025-02-28 09:32:33,724 - INFO - Entered credentials
+2025-02-28 09:32:36,037 - INFO - Entered credentials
+2025-02-28 09:32:40,180 - INFO - Entered credentials
+2025-02-28 09:32:44,045 - INFO - Entered credentials
+2025-02-28 09:32:45,720 - INFO - Entered credentials
+2025-02-28 09:32:47,939 - INFO - Entered credentials
+2025-02-28 09:32:49,551 - INFO - atempting to login
+2025-02-28 09:32:50,600 - INFO - atempting to login
+2025-02-28 09:32:51,633 - INFO - atempting to login
+2025-02-28 09:32:54,072 - INFO - Login successful.
+2025-02-28 09:32:54,165 - INFO - Login successful.
+2025-02-28 09:32:54,960 - INFO - Login successful.
+2025-02-28 09:32:59,982 - INFO - atempting to login
+2025-02-28 09:33:00,121 - INFO - atempting to login
+2025-02-28 09:33:03,208 - INFO - Login successful.
+2025-02-28 09:33:03,599 - INFO - atempting to login
+2025-02-28 09:33:04,568 - INFO - Login successful.
+2025-02-28 09:33:08,179 - INFO - Login successful.
+2025-02-28 09:33:12,614 - INFO - Opened the detail page of the product 1
+2025-02-28 09:33:14,897 - INFO - Adding item in cart
+2025-02-28 09:33:18,082 - INFO - Entered credentials
+2025-02-28 09:33:19,610 - INFO - Opened the detail page of the product 1
+2025-02-28 09:33:21,271 - INFO - Entered credentials
+2025-02-28 09:33:21,909 - INFO - Adding item in cart
+2025-02-28 09:33:27,780 - INFO - Opened the detail page of the product 1
+2025-02-28 09:33:30,577 - INFO - Adding item in cart
+2025-02-28 09:33:32,881 - INFO - Opened the detail page of the product 1
+2025-02-28 09:33:35,015 - INFO - Adding item in cart
+2025-02-28 09:33:35,745 - INFO - Opened the detail page of the product 1
+2025-02-28 09:33:36,394 - INFO - Item added to cart.
+2025-02-28 09:33:36,940 - INFO - Clicked on checkout button
+2025-02-28 09:33:37,910 - INFO - Adding item in cart
+2025-02-28 09:33:40,681 - INFO - Item added to cart.
+2025-02-28 09:33:41,531 - INFO - Popup detected and closed
+2025-02-28 09:33:44,195 - INFO - Clicked on checkout button
+2025-02-28 09:33:44,812 - INFO - atempting to login
+2025-02-28 09:33:46,197 - INFO - atempting to login
+2025-02-28 09:33:48,073 - INFO - Login successful.
+2025-02-28 09:33:49,889 - INFO - Opened the detail page of the product 1
+2025-02-28 09:33:50,013 - INFO - Popup detected and closed
+2025-02-28 09:33:50,013 - INFO - Login successful.
+2025-02-28 09:33:50,973 - INFO - Item added to cart.
+2025-02-28 09:33:52,630 - INFO - Adding item in cart
+2025-02-28 09:33:53,462 - INFO - Entered credentials
+2025-02-28 09:33:56,743 - INFO - Entered credentials
+2025-02-28 09:33:57,817 - INFO - Clicked on checkout button
+2025-02-28 09:33:59,027 - INFO - Entered credentials
+2025-02-28 09:34:02,975 - INFO - Clicked on checkout button
+2025-02-28 09:34:04,190 - INFO - Clicked on checkout button
+2025-02-28 09:34:04,605 - INFO - Item added to cart.
+2025-02-28 09:34:07,604 - INFO - Item added to cart.
+2025-02-28 09:34:08,940 - INFO - atempting to login
+2025-02-28 09:34:09,630 - INFO - Clicked on checkout button
+2025-02-28 09:34:10,653 - INFO - Entered credentials
+2025-02-28 09:34:11,472 - INFO - Popup detected and closed
+2025-02-28 09:34:12,137 - INFO - Login successful.
+2025-02-28 09:34:15,826 - INFO - Item added to cart.
+2025-02-28 09:34:16,043 - INFO - Navigating to order confirmation page
+2025-02-28 09:34:17,074 - INFO - Clicked on checkout button
+2025-02-28 09:34:18,311 - INFO - Popup detected and closed
+2025-02-28 09:34:20,069 - INFO - atempting to login
+2025-02-28 09:34:20,073 - INFO - Opened the detail page of the product 1
+2025-02-28 09:34:20,572 - INFO - Clicked on checkout button
+2025-02-28 09:34:22,301 - INFO - Popup detected and closed
+2025-02-28 09:34:22,355 - INFO - Redirecting to payment gateway
+2025-02-28 09:34:22,487 - INFO - Adding item in cart
+2025-02-28 09:34:23,620 - INFO - atempting to login
+2025-02-28 09:34:23,718 - INFO - Navigating to order confirmation page
+2025-02-28 09:34:23,835 - INFO - Login successful.
+2025-02-28 09:34:24,503 - INFO - Popup detected and closed
+2025-02-28 09:34:26,491 - INFO - Opened the detail page of the product 1
+2025-02-28 09:34:26,734 - INFO - Login successful.
+2025-02-28 09:34:28,920 - INFO - Adding item in cart
+2025-02-28 09:34:29,755 - INFO - Redirecting to payment gateway
+2025-02-28 09:34:36,674 - INFO - Clicked on checkout button
+2025-02-28 09:34:42,619 - INFO - Clicked on checkout button
+2025-02-28 09:34:43,052 - INFO - Clicked on checkout button
+2025-02-28 09:34:43,086 - INFO - Redirected to payment gateway
+2025-02-28 09:34:45,299 - INFO - Opened the detail page of the product 1
+2025-02-28 09:34:45,534 - INFO - Opened the detail page of the product 1
+2025-02-28 09:34:45,954 - INFO - atempting to login
+2025-02-28 09:34:46,810 - INFO - Clicked on checkout button
+2025-02-28 09:34:47,364 - INFO - Adding item in cart
+2025-02-28 09:34:47,593 - INFO - Adding item in cart
+2025-02-28 09:34:50,268 - INFO - Item added to cart.
+2025-02-28 09:34:50,369 - INFO - Item added to cart.
+2025-02-28 09:34:50,994 - INFO - Clicked on checkout button
+2025-02-28 09:34:51,068 - INFO - Clicked on checkout button
+2025-02-28 09:34:53,228 - INFO - Login successful.
+2025-02-28 09:34:53,733 - INFO - Opened the detail page of the product 1
+2025-02-28 09:34:53,850 - INFO - Popup detected and closed
+2025-02-28 09:34:53,886 - INFO - Popup detected and closed
+2025-02-28 09:34:55,807 - INFO - Adding item in cart
+2025-02-28 09:34:56,488 - INFO - Entered Card holder name
+2025-02-28 09:34:59,469 - INFO - Item added to cart.
+2025-02-28 09:35:00,470 - INFO - Switched to iframe
+2025-02-28 09:35:01,000 - INFO - Clicked on checkout button
+2025-02-28 09:35:02,126 - INFO - Navigating to order confirmation page
+2025-02-28 09:35:03,893 - INFO - Clicked on checkout button
+2025-02-28 09:35:04,229 - INFO - Popup detected and closed
+2025-02-28 09:35:05,291 - INFO - Redirecting to payment gateway
+2025-02-28 09:35:05,440 - INFO - Clicked on checkout button
+2025-02-28 09:35:08,048 - INFO - Navigating to order confirmation page
+2025-02-28 09:35:09,497 - INFO - Item added to cart.
+2025-02-28 09:35:09,867 - INFO - Clicked on checkout button
+2025-02-28 09:35:10,785 - INFO - Clicked on checkout button
+2025-02-28 09:35:11,298 - INFO - Redirecting to payment gateway
+2025-02-28 09:35:11,750 - INFO - Entered card number
+2025-02-28 09:35:12,813 - ERROR - Error during checkout: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=133.0.6943.142)
+Stacktrace:
+	GetHandleVerifier [0x00007FF66C30C6A5+28789]
+	(No symbol) [0x00007FF66C275B20]
+	(No symbol) [0x00007FF66C108F9A]
+	(No symbol) [0x00007FF66C0E1563]
+	(No symbol) [0x00007FF66C18EF1E]
+	(No symbol) [0x00007FF66C1AF0D2]
+	(No symbol) [0x00007FF66C187103]
+	(No symbol) [0x00007FF66C14FFC0]
+	(No symbol) [0x00007FF66C151273]
+	GetHandleVerifier [0x00007FF66C651AED+3458237]
+	GetHandleVerifier [0x00007FF66C66829C+3550316]
+	GetHandleVerifier [0x00007FF66C65DB9D+3507565]
+	GetHandleVerifier [0x00007FF66C3D2C6A+841274]
+	(No symbol) [0x00007FF66C2809EF]
+	(No symbol) [0x00007FF66C27CB34]
+	(No symbol) [0x00007FF66C27CCD6]
+	(No symbol) [0x00007FF66C26C119]
+	BaseThreadInitThunk [0x00007FFE743D259D+29]
+	RtlUserThreadStart [0x00007FFE7638AF38+40]
+
+2025-02-28 09:35:13,732 - INFO - Navigating to order confirmation page
+2025-02-28 09:35:13,793 - INFO - Switched back to main
+2025-02-28 09:35:14,443 - INFO - Navigating to order confirmation page
+2025-02-28 09:35:14,927 - INFO - Opened the detail page of the product 1
+2025-02-28 09:35:17,008 - INFO - Adding item in cart
+2025-02-28 09:35:20,161 - INFO - Entered card Exp date
+2025-02-28 09:35:23,635 - INFO - Redirected to payment gateway
+2025-02-28 09:35:23,802 - INFO - Entered cvv number
+2025-02-28 09:35:26,803 - INFO - Entered Payment details
+2025-02-28 09:35:31,541 - INFO - Entered Card holder name
+2025-02-28 09:35:35,226 - INFO - Switched to iframe
+2025-02-28 09:35:37,426 - ERROR - Error during processing: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-02-28 09:35:47,505 - INFO - Navigating to order confirmation page
+2025-02-28 09:36:03,833 - ERROR - Failed to add item to cart: Message: 
+
+2025-02-28 09:36:04,011 - ERROR - Error during checkout: Message: target frame detached
+  (failed to check if window was closed: disconnected: Unable to receive message from renderer)
+  (Session info: MicrosoftEdge=133.0.3065.82)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6559AE735+13397]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF655C3B1B4+2060276]
+	(No symbol) [0x00007FF655739405]
+	(No symbol) [0x00007FF65572A71D]
+	(No symbol) [0x00007FF6557296CC]
+	(No symbol) [0x00007FF6557470CA]
+	(No symbol) [0x00007FF6557AA0E6]
+	(No symbol) [0x00007FF6557C13AD]
+	(No symbol) [0x00007FF6557A3FC3]
+	(No symbol) [0x00007FF655778B96]
+	(No symbol) [0x00007FF655777E50]
+	(No symbol) [0x00007FF6557789C3]
+	(No symbol) [0x00007FF655800214]
+	(No symbol) [0x00007FF6558906CF]
+	(No symbol) [0x00007FF655803A53]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF655CF45BD+279981]
+	simdutf::get_active_implementation [0x00007FF6559378C1+409457]
+	simdutf::get_active_implementation [0x00007FF655932BA4+389716]
+	simdutf::get_active_implementation [0x00007FF655932CE9+390041]
+	simdutf::get_active_implementation [0x00007FF6559262E6+338326]
+	BaseThreadInitThunk [0x00007FFE743D259D+29]
+	RtlUserThreadStart [0x00007FFE7638AF38+40]
+
+2025-02-28 09:36:04,205 - ERROR - Failed to add item to cart: 'NoneType' object has no attribute 'is_displayed'
+2025-02-28 09:36:06,246 - ERROR - Error during checkout: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=133.0.3065.82)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6559AE735+13397]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF655C3B1B4+2060276]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF655B92338+1368440]
+	(No symbol) [0x00007FF65571A202]
+	(No symbol) [0x00007FF6557A9F70]
+	(No symbol) [0x00007FF6557C13AD]
+	(No symbol) [0x00007FF6557A3FC3]
+	(No symbol) [0x00007FF655778B96]
+	(No symbol) [0x00007FF655777E50]
+	(No symbol) [0x00007FF6557789C3]
+	(No symbol) [0x00007FF655800214]
+	(No symbol) [0x00007FF6558906CF]
+	(No symbol) [0x00007FF655803A53]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF655CF45BD+279981]
+	simdutf::get_active_implementation [0x00007FF6559378C1+409457]
+	simdutf::get_active_implementation [0x00007FF655932BA4+389716]
+	simdutf::get_active_implementation [0x00007FF655932CE9+390041]
+	simdutf::get_active_implementation [0x00007FF6559262E6+338326]
+	BaseThreadInitThunk [0x00007FFE743D259D+29]
+	RtlUserThreadStart [0x00007FFE7638AF38+40]
+
+2025-02-28 09:36:06,262 - ERROR - Error during checkout: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=133.0.3065.82)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6559AE735+13397]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF655C3B1B4+2060276]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF655B92338+1368440]
+	(No symbol) [0x00007FF65571A202]
+	(No symbol) [0x00007FF6557A9F70]
+	(No symbol) [0x00007FF6557C13AD]
+	(No symbol) [0x00007FF6557A3FC3]
+	(No symbol) [0x00007FF655778B96]
+	(No symbol) [0x00007FF655777E50]
+	(No symbol) [0x00007FF6557789C3]
+	(No symbol) [0x00007FF655800214]
+	(No symbol) [0x00007FF6558906CF]
+	(No symbol) [0x00007FF655803A53]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF655CF45BD+279981]
+	simdutf::get_active_implementation [0x00007FF6559378C1+409457]
+	simdutf::get_active_implementation [0x00007FF655932BA4+389716]
+	simdutf::get_active_implementation [0x00007FF655932CE9+390041]
+	simdutf::get_active_implementation [0x00007FF6559262E6+338326]
+	BaseThreadInitThunk [0x00007FFE743D259D+29]
+	RtlUserThreadStart [0x00007FFE7638AF38+40]
+
+2025-02-28 09:36:07,132 - ERROR - Error during checkout: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=133.0.3065.82)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6559AE735+13397]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF655C3B1B4+2060276]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF655B92338+1368440]
+	(No symbol) [0x00007FF65571A202]
+	(No symbol) [0x00007FF6557A9F70]
+	(No symbol) [0x00007FF6557C13AD]
+	(No symbol) [0x00007FF6557A3FC3]
+	(No symbol) [0x00007FF655778B96]
+	(No symbol) [0x00007FF655777E50]
+	(No symbol) [0x00007FF6557789C3]
+	(No symbol) [0x00007FF655800214]
+	(No symbol) [0x00007FF6558906CF]
+	(No symbol) [0x00007FF655803A53]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF655CF45BD+279981]
+	simdutf::get_active_implementation [0x00007FF6559378C1+409457]
+	simdutf::get_active_implementation [0x00007FF655932BA4+389716]
+	simdutf::get_active_implementation [0x00007FF655932CE9+390041]
+	simdutf::get_active_implementation [0x00007FF6559262E6+338326]
+	BaseThreadInitThunk [0x00007FFE743D259D+29]
+	RtlUserThreadStart [0x00007FFE7638AF38+40]
+
+2025-02-28 09:36:11,594 - ERROR - Error during checkout: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=133.0.6943.142)
+Stacktrace:
+	GetHandleVerifier [0x00007FF66C30C6A5+28789]
+	(No symbol) [0x00007FF66C275B20]
+	(No symbol) [0x00007FF66C108F9A]
+	(No symbol) [0x00007FF66C0F4D75]
+	(No symbol) [0x00007FF66C119784]
+	(No symbol) [0x00007FF66C18F0BF]
+	(No symbol) [0x00007FF66C1AF0D2]
+	(No symbol) [0x00007FF66C187103]
+	(No symbol) [0x00007FF66C14FFC0]
+	(No symbol) [0x00007FF66C151273]
+	GetHandleVerifier [0x00007FF66C651AED+3458237]
+	GetHandleVerifier [0x00007FF66C66829C+3550316]
+	GetHandleVerifier [0x00007FF66C65DB9D+3507565]
+	GetHandleVerifier [0x00007FF66C3D2C6A+841274]
+	(No symbol) [0x00007FF66C2809EF]
+	(No symbol) [0x00007FF66C27CB34]
+	(No symbol) [0x00007FF66C27CCD6]
+	(No symbol) [0x00007FF66C26C119]
+	BaseThreadInitThunk [0x00007FFE743D259D+29]
+	RtlUserThreadStart [0x00007FFE7638AF38+40]
+
+2025-02-28 09:36:12,833 - ERROR - Error during checkout: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF6559AE735+13397]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF655C3B1B4+2060276]
+	(No symbol) [0x00007FF655739405]
+	(No symbol) [0x00007FF655777663]
+	(No symbol) [0x00007FF6557A4122]
+	(No symbol) [0x00007FF655750871]
+	(No symbol) [0x00007FF6557A0C84]
+	(No symbol) [0x00007FF6557A052A]
+	(No symbol) [0x00007FF6557134D5]
+	(No symbol) [0x00007FF655800214]
+	(No symbol) [0x00007FF6558906CF]
+	(No symbol) [0x00007FF655803A53]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF655CF45BD+279981]
+	simdutf::get_active_implementation [0x00007FF6559378C1+409457]
+	(No symbol) [0x00007FF655712413]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF655B42628+1041512]
+	BaseThreadInitThunk [0x00007FFE743D259D+29]
+	RtlUserThreadStart [0x00007FFE7638AF38+40]
+
+2025-02-28 09:38:40,028 - ERROR - Error during checkout: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=133.0.6943.142)
+Stacktrace:
+	GetHandleVerifier [0x00007FF66C30C6A5+28789]
+	(No symbol) [0x00007FF66C275B20]
+	(No symbol) [0x00007FF66C108F9A]
+	(No symbol) [0x00007FF66C0E1563]
+	(No symbol) [0x00007FF66C18EF1E]
+	(No symbol) [0x00007FF66C1AF0D2]
+	(No symbol) [0x00007FF66C187103]
+	(No symbol) [0x00007FF66C14FFC0]
+	(No symbol) [0x00007FF66C151273]
+	GetHandleVerifier [0x00007FF66C651AED+3458237]
+	GetHandleVerifier [0x00007FF66C66829C+3550316]
+	GetHandleVerifier [0x00007FF66C65DB9D+3507565]
+	GetHandleVerifier [0x00007FF66C3D2C6A+841274]
+	(No symbol) [0x00007FF66C2809EF]
+	(No symbol) [0x00007FF66C27CB34]
+	(No symbol) [0x00007FF66C27CCD6]
+	(No symbol) [0x00007FF66C26C119]
+	BaseThreadInitThunk [0x00007FFE743D259D+29]
+	RtlUserThreadStart [0x00007FFE7638AF38+40]
+
+2025-02-28 09:38:40,658 - ERROR - Error during checkout: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=133.0.3065.82)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6559AE735+13397]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF655C3B1B4+2060276]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF655B92338+1368440]
+	(No symbol) [0x00007FF65571A202]
+	(No symbol) [0x00007FF6557A9F70]
+	(No symbol) [0x00007FF6557C13AD]
+	(No symbol) [0x00007FF6557A3FC3]
+	(No symbol) [0x00007FF655778B96]
+	(No symbol) [0x00007FF655777E50]
+	(No symbol) [0x00007FF6557789C3]
+	(No symbol) [0x00007FF655800214]
+	(No symbol) [0x00007FF6558906CF]
+	(No symbol) [0x00007FF655803A53]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF655CF45BD+279981]
+	simdutf::get_active_implementation [0x00007FF6559378C1+409457]
+	simdutf::get_active_implementation [0x00007FF655932BA4+389716]
+	simdutf::get_active_implementation [0x00007FF655932CE9+390041]
+	simdutf::get_active_implementation [0x00007FF6559262E6+338326]
+	BaseThreadInitThunk [0x00007FFE743D259D+29]
+	RtlUserThreadStart [0x00007FFE7638AF38+40]
+
+2025-02-28 09:38:52,503 - ERROR - Error during checkout: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF6559AE735+13397]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF655C3B1B4+2060276]
+	(No symbol) [0x00007FF655739405]
+	(No symbol) [0x00007FF655777663]
+	(No symbol) [0x00007FF6557A4122]
+	(No symbol) [0x00007FF655750871]
+	(No symbol) [0x00007FF6557A0C84]
+	(No symbol) [0x00007FF6557A052A]
+	(No symbol) [0x00007FF6557134D5]
+	(No symbol) [0x00007FF655800214]
+	(No symbol) [0x00007FF6558906CF]
+	(No symbol) [0x00007FF655803A53]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF655CF45BD+279981]
+	simdutf::get_active_implementation [0x00007FF6559378C1+409457]
+	(No symbol) [0x00007FF655712413]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF655B42628+1041512]
+	BaseThreadInitThunk [0x00007FFE743D259D+29]
+	RtlUserThreadStart [0x00007FFE7638AF38+40]
+
+2025-02-28 09:39:29,096 - INFO - Entered credentials
+2025-02-28 09:39:30,255 - INFO - Entered credentials
+2025-02-28 09:39:38,484 - INFO - atempting to login
+2025-02-28 09:39:39,298 - INFO - atempting to login
+2025-02-28 09:39:52,924 - ERROR - Error during checkout: HTTPConnectionPool(host='localhost', port=64038): Max retries exceeded with url: /session/1ee95f4d062e075cca50da06c470ecd9/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000212731B2BE0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-02-28 09:56:09,740 - INFO - Entered credentials
+2025-02-28 09:56:10,218 - INFO - Entered credentials
+2025-02-28 09:56:17,637 - INFO - Entered credentials
+2025-02-28 10:05:12,660 - INFO - Entered credentials
+2025-02-28 10:05:14,221 - INFO - Entered credentials
+2025-02-28 10:05:19,269 - INFO - atempting to login
+2025-02-28 10:05:20,591 - INFO - atempting to login
+2025-02-28 10:05:22,322 - INFO - Login successful.
+2025-02-28 10:05:23,642 - INFO - Login successful.
+2025-02-28 10:05:37,008 - INFO - Opened the detail page of the product 1
+2025-02-28 10:05:38,487 - INFO - Opened the detail page of the product 1
+2025-02-28 10:05:39,009 - INFO - Adding item in cart
+2025-02-28 10:05:40,488 - INFO - Adding item in cart
+2025-02-28 10:05:46,347 - INFO - Item added to cart.
+2025-02-28 10:05:46,988 - INFO - Clicked on checkout button
+2025-02-28 10:05:47,952 - INFO - Item added to cart.
+2025-02-28 10:05:48,523 - INFO - Clicked on checkout button
+2025-02-28 10:05:49,119 - INFO - Popup detected and closed
+2025-02-28 10:05:50,632 - INFO - Popup detected and closed
+2025-02-28 10:05:57,654 - INFO - Clicked on checkout button
+2025-02-28 10:05:58,730 - INFO - Clicked on checkout button
+2025-02-28 10:06:11,055 - INFO - Navigating to order confirmation page
+2025-02-28 10:06:11,303 - INFO - Navigating to order confirmation page
+2025-02-28 10:06:13,485 - INFO - Redirecting to payment gateway
+2025-02-28 10:06:13,718 - INFO - Redirecting to payment gateway
+2025-02-28 10:06:27,128 - INFO - Redirected to payment gateway
+2025-02-28 10:06:27,464 - INFO - Redirected to payment gateway
+2025-02-28 10:06:32,717 - INFO - Entered Card holder name
+2025-02-28 10:06:33,753 - INFO - Switched to iframe
+2025-02-28 10:06:36,563 - INFO - Entered Card holder name
+2025-02-28 10:06:37,621 - INFO - Switched to iframe
+2025-02-28 10:06:42,207 - INFO - Entered card number
+2025-02-28 10:06:44,214 - INFO - Switched back to main
+2025-02-28 10:06:45,385 - INFO - Entered card Exp date
+2025-02-28 10:06:46,445 - INFO - Entered cvv number
+2025-02-28 10:06:49,445 - INFO - Entered Payment details
+2025-02-28 10:06:52,343 - INFO - Checking if captcha required...
+2025-02-28 10:06:58,410 - INFO - Opened the detail page of the product 2
+2025-02-28 10:07:00,411 - INFO - Selecting variations
+2025-02-28 10:07:02,667 - INFO - Payment Successful.
+2025-02-28 10:07:12,937 - INFO - Order is placed. Order ID: 25022700001
+2025-02-28 10:07:32,456 - INFO - Opened the detail page of the product 2
+2025-02-28 10:07:34,457 - INFO - Selecting variations
+2025-02-28 10:09:51,597 - INFO - Entered credentials
+2025-02-28 10:09:52,206 - INFO - Entered credentials
+2025-02-28 10:09:56,951 - INFO - atempting to login
+2025-02-28 10:09:57,351 - INFO - atempting to login
+2025-02-28 10:09:59,970 - INFO - Login successful.
+2025-02-28 10:10:00,409 - INFO - Login successful.
+2025-02-28 10:10:16,541 - INFO - Opened the detail page of the product 1
+2025-02-28 10:10:16,834 - INFO - Opened the detail page of the product 1
+2025-02-28 10:10:18,542 - INFO - Adding item in cart
+2025-02-28 10:10:18,835 - INFO - Adding item in cart
+2025-02-28 10:10:26,012 - INFO - Item added to cart.
+2025-02-28 10:10:26,137 - INFO - Item added to cart.
+2025-02-28 10:10:26,630 - INFO - Clicked on checkout button
+2025-02-28 10:10:26,762 - INFO - Clicked on checkout button
+2025-02-28 10:10:28,763 - INFO - Popup detected and closed
+2025-02-28 10:10:28,840 - INFO - Popup detected and closed
+2025-02-28 10:10:36,962 - INFO - Clicked on checkout button
+2025-02-28 10:10:37,176 - INFO - Clicked on checkout button
+2025-02-28 10:10:49,442 - INFO - Navigating to order confirmation page
+2025-02-28 10:10:49,442 - INFO - Navigating to order confirmation page
+2025-02-28 10:10:51,826 - INFO - Redirecting to payment gateway
+2025-02-28 10:10:51,839 - INFO - Redirecting to payment gateway
+2025-02-28 10:11:04,247 - INFO - Redirected to payment gateway
+2025-02-28 10:11:05,085 - INFO - Redirected to payment gateway
+2025-02-28 10:11:10,389 - INFO - Entered Card holder name
+2025-02-28 10:11:10,437 - INFO - Entered Card holder name
+2025-02-28 10:11:11,443 - INFO - Switched to iframe
+2025-02-28 10:11:11,468 - INFO - Switched to iframe
+2025-02-28 10:46:00,061 - INFO - Entered credentials
+2025-02-28 10:46:01,881 - INFO - Entered credentials
+2025-02-28 10:46:12,390 - INFO - atempting to login
+2025-02-28 10:46:12,784 - INFO - atempting to login
+2025-02-28 10:46:15,420 - INFO - Login successful.
+2025-02-28 10:46:15,984 - INFO - Login successful.
+2025-02-28 10:46:30,534 - INFO - Opened the detail page of the product 1
+2025-02-28 10:46:31,004 - INFO - Opened the detail page of the product 1
+2025-02-28 10:46:32,534 - INFO - Adding item in cart
+2025-02-28 10:46:33,006 - INFO - Adding item in cart
+2025-02-28 10:46:38,807 - ERROR - Failed to add item to cart: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=133.0.3065.82)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6AE9DE735+13397]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6AEC6B1B4+2060276]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6AEBC2338+1368440]
+	(No symbol) [0x00007FF6AE74A202]
+	(No symbol) [0x00007FF6AE7D9F70]
+	(No symbol) [0x00007FF6AE7F13AD]
+	(No symbol) [0x00007FF6AE7D3FC3]
+	(No symbol) [0x00007FF6AE7A8B96]
+	(No symbol) [0x00007FF6AE7A7E50]
+	(No symbol) [0x00007FF6AE7A89C3]
+	(No symbol) [0x00007FF6AE830214]
+	(No symbol) [0x00007FF6AE8C06CF]
+	(No symbol) [0x00007FF6AE833A53]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6AED245BD+279981]
+	simdutf::get_active_implementation [0x00007FF6AE9678C1+409457]
+	simdutf::get_active_implementation [0x00007FF6AE962BA4+389716]
+	simdutf::get_active_implementation [0x00007FF6AE962CE9+390041]
+	simdutf::get_active_implementation [0x00007FF6AE9562E6+338326]
+	BaseThreadInitThunk [0x00007FFE743D259D+29]
+	RtlUserThreadStart [0x00007FFE7638AF38+40]
+
+2025-02-28 10:46:39,578 - ERROR - Error during checkout: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=133.0.3065.82)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6AE9DE735+13397]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6AEC6B1B4+2060276]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6AEBC2338+1368440]
+	(No symbol) [0x00007FF6AE74A202]
+	(No symbol) [0x00007FF6AE7D9F70]
+	(No symbol) [0x00007FF6AE7F13AD]
+	(No symbol) [0x00007FF6AE7D3FC3]
+	(No symbol) [0x00007FF6AE7A8B96]
+	(No symbol) [0x00007FF6AE7A7E50]
+	(No symbol) [0x00007FF6AE7A89C3]
+	(No symbol) [0x00007FF6AE830214]
+	(No symbol) [0x00007FF6AE8C06CF]
+	(No symbol) [0x00007FF6AE833A53]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6AED245BD+279981]
+	simdutf::get_active_implementation [0x00007FF6AE9678C1+409457]
+	simdutf::get_active_implementation [0x00007FF6AE962BA4+389716]
+	simdutf::get_active_implementation [0x00007FF6AE962CE9+390041]
+	simdutf::get_active_implementation [0x00007FF6AE9562E6+338326]
+	BaseThreadInitThunk [0x00007FFE743D259D+29]
+	RtlUserThreadStart [0x00007FFE7638AF38+40]
+
+2025-02-28 10:46:40,696 - ERROR - Failed to add item to cart: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=133.0.6943.142)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6B8BCC6A5+28789]
+	(No symbol) [0x00007FF6B8B35B20]
+	(No symbol) [0x00007FF6B89C8F9A]
+	(No symbol) [0x00007FF6B89A1563]
+	(No symbol) [0x00007FF6B8A4EF1E]
+	(No symbol) [0x00007FF6B8A6F0D2]
+	(No symbol) [0x00007FF6B8A47103]
+	(No symbol) [0x00007FF6B8A0FFC0]
+	(No symbol) [0x00007FF6B8A11273]
+	GetHandleVerifier [0x00007FF6B8F11AED+3458237]
+	GetHandleVerifier [0x00007FF6B8F2829C+3550316]
+	GetHandleVerifier [0x00007FF6B8F1DB9D+3507565]
+	GetHandleVerifier [0x00007FF6B8C92C6A+841274]
+	(No symbol) [0x00007FF6B8B409EF]
+	(No symbol) [0x00007FF6B8B3CB34]
+	(No symbol) [0x00007FF6B8B3CCD6]
+	(No symbol) [0x00007FF6B8B2C119]
+	BaseThreadInitThunk [0x00007FFE743D259D+29]
+	RtlUserThreadStart [0x00007FFE7638AF38+40]
+
+2025-02-28 10:46:41,256 - ERROR - Error during checkout: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=133.0.6943.142)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6B8BCC6A5+28789]
+	(No symbol) [0x00007FF6B8B35B20]
+	(No symbol) [0x00007FF6B89C8F9A]
+	(No symbol) [0x00007FF6B89A1563]
+	(No symbol) [0x00007FF6B8A4EF1E]
+	(No symbol) [0x00007FF6B8A6F0D2]
+	(No symbol) [0x00007FF6B8A47103]
+	(No symbol) [0x00007FF6B8A0FFC0]
+	(No symbol) [0x00007FF6B8A11273]
+	GetHandleVerifier [0x00007FF6B8F11AED+3458237]
+	GetHandleVerifier [0x00007FF6B8F2829C+3550316]
+	GetHandleVerifier [0x00007FF6B8F1DB9D+3507565]
+	GetHandleVerifier [0x00007FF6B8C92C6A+841274]
+	(No symbol) [0x00007FF6B8B409EF]
+	(No symbol) [0x00007FF6B8B3CB34]
+	(No symbol) [0x00007FF6B8B3CCD6]
+	(No symbol) [0x00007FF6B8B2C119]
+	BaseThreadInitThunk [0x00007FFE743D259D+29]
+	RtlUserThreadStart [0x00007FFE7638AF38+40]
+

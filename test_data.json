@@ -1,0 +1,48 @@
+{
+    "login_details": {
+        "valid_login": {
+            "username": "snoobe@gmail.com",
+            "password": "Snoobe@838"
+        }
+    
+    },
+
+    "register_details":{
+        "valid_register":{
+            "FirstName":"Snoobe",
+            "LastName":"test",
+            "Phone":"8967184832",
+            "Company":"X_UBNA",
+            "Email":"snoobe@gmail.com",
+            "ConfirmEmail":"snoobe@gmail.com",
+            "Password":"Snoobe@838",
+            "ConfirmPassword":"Snoobe@838"
+        }
+
+    },
+
+    "address_details": {
+        "valid_checkout": {
+            "address_1": "Test_address_1",
+            "country_name": "USA",
+            "state_name": "ILLINOIS",
+            "city_name": "Erlangr",
+            "zip_code": "41018"
+        }
+
+    },
+
+    "payment_details": {
+        "valid_payment": {
+            "card_holder": "Snoobe test",
+            "card_number": "4111111111111111",
+            "cvv": "999",
+            "exp_month": "FEB",
+            "exp_year": "2030"
+        }
+        
+    }
+
+
+
+}
