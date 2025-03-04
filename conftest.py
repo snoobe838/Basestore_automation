@@ -23,6 +23,7 @@ from selenium.webdriver.edge.options import Options as EdgeOptions
 
 @pytest.fixture(scope="session")
 def driver(request):
+    
     browser = request.config.getoption("--browser")  # Read browser option
 
     if browser == "chrome":
@@ -42,9 +43,7 @@ def driver(request):
     driver.quit()
 
 def pytest_addoption(parser):
-    parser.addoption("--browser", action="store", help="Choose browser: chrome or edge")
-
-
+    parser.addoption("--browser", action="store", default="chrome", help="Choose browser: chrome or edge")
 
 
 

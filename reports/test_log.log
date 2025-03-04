@@ -2344,3 +2344,43 @@ Stacktrace:
 	BaseThreadInitThunk [0x00007FFE743D259D+29]
 	RtlUserThreadStart [0x00007FFE7638AF38+40]
 
+2025-03-04 16:13:48,869 - ERROR - Error during checkout: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF7E4DCC6A5+28789]
+	(No symbol) [0x00007FF7E4D35B20]
+	(No symbol) [0x00007FF7E4BC8DCC]
+	(No symbol) [0x00007FF7E4C0F1CF]
+	(No symbol) [0x00007FF7E4C471F2]
+	(No symbol) [0x00007FF7E4C41B89]
+	(No symbol) [0x00007FF7E4C40C39]
+	(No symbol) [0x00007FF7E4B95595]
+	GetHandleVerifier [0x00007FF7E5111AED+3458237]
+	GetHandleVerifier [0x00007FF7E512829C+3550316]
+	GetHandleVerifier [0x00007FF7E511DB9D+3507565]
+	GetHandleVerifier [0x00007FF7E4E92C6A+841274]
+	(No symbol) [0x00007FF7E4D409EF]
+	(No symbol) [0x00007FF7E4B941AE]
+	GetHandleVerifier [0x00007FF7E51966A8+4001912]
+	BaseThreadInitThunk [0x00007FFE743D259D+29]
+	RtlUserThreadStart [0x00007FFE7638AF38+40]
+
+2025-03-04 16:13:48,976 - ERROR - Error during checkout: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF7E4DCC6A5+28789]
+	(No symbol) [0x00007FF7E4D35B20]
+	(No symbol) [0x00007FF7E4BC8DCC]
+	(No symbol) [0x00007FF7E4C0F1CF]
+	(No symbol) [0x00007FF7E4C471F2]
+	(No symbol) [0x00007FF7E4C41B89]
+	(No symbol) [0x00007FF7E4C40C39]
+	(No symbol) [0x00007FF7E4B95595]
+	GetHandleVerifier [0x00007FF7E5111AED+3458237]
+	GetHandleVerifier [0x00007FF7E512829C+3550316]
+	GetHandleVerifier [0x00007FF7E511DB9D+3507565]
+	GetHandleVerifier [0x00007FF7E4E92C6A+841274]
+	(No symbol) [0x00007FF7E4D409EF]
+	(No symbol) [0x00007FF7E4B941AE]
+	GetHandleVerifier [0x00007FF7E51966A8+4001912]
+	BaseThreadInitThunk [0x00007FFE743D259D+29]
+	RtlUserThreadStart [0x00007FFE7638AF38+40]
+
